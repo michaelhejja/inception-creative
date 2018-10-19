@@ -1,0 +1,9 @@
+// project specific global form styling
+input {
+    background: transparent;
+}
+
+// Globally hides X added on IE to clear input fields
+input::-ms-clear {
+    display: none;
+}

@@ -1,0 +1,6203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NineZeroSeven\n"
+"POT-Creation-Date: 2018-02-25 14:34-0900\n"
+"PO-Revision-Date: 2018-02-25 14:34-0900\n"
+"Last-Translator: \n"
+"Language-Team: Webcreations907\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../assets/php/misc/no-results.php:15 ../assets/php/misc/no-results.php:34
+msgid "Whoops! Nothing Found"
+msgstr ""
+
+#: ../assets/php/misc/no-results.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../assets/php/misc/no-results.php:21 ../assets/php/misc/no-results.php:51
+msgid "Try new search"
+msgstr ""
+
+#: ../assets/php/misc/no-results.php:38
+#, php-format
+msgid "Ready to build? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../assets/php/misc/no-results.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../assets/php/portfolio-templates/portfolio-content-gallery.php:77
+#: ../assets/php/portfolio-templates/portfolio-content-video.php:36
+#: ../assets/php/portfolio-templates/portfolio-content.php:78
+#: ../assets/php/post-formats/entry-audio.php:67
+#: ../assets/php/post-formats/entry-gallery.php:76
+#: ../assets/php/post-formats/entry-video.php:36
+#: ../assets/php/post-formats/entry.php:49
+#: ../assets/php/shortcodes/sc_wbc_blog.php:335
+msgid "By"
+msgstr ""
+
+#: ../assets/php/portfolio-templates/portfolio-content-gallery.php:78
+#: ../assets/php/portfolio-templates/portfolio-content-video.php:37
+#: ../assets/php/portfolio-templates/portfolio-content.php:79
+#: ../assets/php/post-formats/entry-audio.php:68
+#: ../assets/php/post-formats/entry-gallery.php:77
+#: ../assets/php/post-formats/entry-video.php:37
+#: ../assets/php/post-formats/entry.php:50
+#: ../assets/php/shortcodes/sc_wbc_blog.php:339
+msgid "In"
+msgstr ""
+
+#: ../assets/php/portfolio-templates/portfolio-content-gallery.php:79
+#: ../assets/php/portfolio-templates/portfolio-content-video.php:38
+#: ../assets/php/portfolio-templates/portfolio-content.php:80
+#: ../assets/php/post-formats/entry-audio.php:69
+#: ../assets/php/post-formats/entry-gallery.php:78
+#: ../assets/php/post-formats/entry-video.php:38
+#: ../assets/php/post-formats/entry.php:51
+#: ../assets/php/shortcodes/sc_wbc_blog.php:359 ../comments.php:23
+msgid "No Comments"
+msgstr ""
+
+#: ../assets/php/portfolio-templates/portfolio-content-gallery.php:79
+#: ../assets/php/portfolio-templates/portfolio-content-video.php:38
+#: ../assets/php/portfolio-templates/portfolio-content.php:80
+#: ../assets/php/post-formats/entry-audio.php:69
+#: ../assets/php/post-formats/entry-gallery.php:78
+#: ../assets/php/post-formats/entry-video.php:38
+#: ../assets/php/post-formats/entry.php:51
+#: ../assets/php/shortcodes/sc_wbc_blog.php:359 ../comments.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: ../assets/php/portfolio-templates/portfolio-content-gallery.php:79
+#: ../assets/php/portfolio-templates/portfolio-content-video.php:38
+#: ../assets/php/portfolio-templates/portfolio-content.php:80
+#: ../assets/php/post-formats/entry-audio.php:69
+#: ../assets/php/post-formats/entry-gallery.php:78
+#: ../assets/php/post-formats/entry-video.php:38
+#: ../assets/php/post-formats/entry.php:51
+#: ../assets/php/shortcodes/sc_wbc_blog.php:359 ../comments.php:23
+msgid "% Comments"
+msgstr ""
+
+#: ../assets/php/portfolio-templates/portfolio-content-gallery.php:96
+#: ../assets/php/portfolio-templates/portfolio-content-video.php:55
+#: ../assets/php/portfolio-templates/portfolio-content.php:97
+#: ../assets/php/post-formats/entry-audio.php:86
+#: ../assets/php/post-formats/entry-gallery.php:95
+#: ../assets/php/post-formats/entry-video.php:55
+#: ../assets/php/post-formats/entry.php:67
+#: ../assets/php/shortcodes/sc_wbc_blog.php:383
+msgid "Read More"
+msgstr ""
+
+#: ../assets/php/portfolio-templates/portfolio-single-no-sidebar.php:42
+#: ../assets/php/portfolio-templates/portfolio-single-sidebar-left.php:49
+#: ../assets/php/portfolio-templates/portfolio-single.php:41
+#: ../assets/php/post-templates/single-template-no-sidebar.php:32
+#: ../assets/php/post-templates/single-template-sidebar-left.php:39
+#: ../assets/php/post-templates/single-template.php:34
+msgid "About The Author"
+msgstr ""
+
+#: ../assets/php/shortcodes/sc_wbc_blog.php:425
+msgid "Load More Posts"
+msgstr ""
+
+#: ../assets/php/shortcodes/sc_wbc_icon_box.php:191
+msgid "Click Here"
+msgstr ""
+
+#: ../assets/php/shortcodes/sc_wbc_portfolio.php:391
+msgid "All"
+msgstr ""
+
+#: ../assets/php/shortcodes/sc_wbc_pricing.php:38
+msgid "Sign Up Now!"
+msgstr ""
+
+#: ../assets/php/shortcodes/sc_wbc_progress.php:5
+#: ../includes/functions/custom-widgets.php:152
+#: ../includes/vc_extend/vc-functions.php:2004
+#: ../includes/vc_extend/vc-functions.php:2278
+#: ../includes/vc_extend/vc-functions.php:2413
+#: ../includes/vc_extend/vc-functions.php:3909
+#: ../includes/vc_extend/vc-functions.php:4294
+#: ../includes/vc_extend/vc-functions.php:5048
+msgid "Title"
+msgstr ""
+
+#: ../assets/php/shortcodes/sc_wbc_team_box.php:67
+msgid "Team Member"
+msgstr ""
+
+#: ../footer.php:45 ../includes/functions/theme-functions.php:319
+#: ../sidebar.php:39
+msgid "Archives"
+msgstr ""
+
+#: ../footer.php:63 ../includes/admin/configs/theme-config.php:1840
+#: ../sidebar.php:49
+msgid "Pages"
+msgstr ""
+
+#: ../footer.php:83 ../sidebar.php:16
+msgid "Categories"
+msgstr ""
+
+#: ../footer.php:103 ../sidebar.php:27
+msgid "Meta"
+msgstr ""
+
+#: ../footer.php:137
+#, php-format
+msgid ""
+"&copy; <a href=\"%1s\">%2s</a> All Rights Reserved %3s - Powered By <a href="
+"\"http://wordpress.org\">WordPress</a>"
+msgstr ""
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:49 ../includes/admin/configs/meta-config.php:294
+#: ../includes/admin/configs/meta-config.php:445
+#: ../includes/admin/configs/meta-config.php:679
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:166
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../functions.php:175
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions.php:184
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions.php:193
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions.php:205
+msgid "Footer 4"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:399
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3304
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:616
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:731
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:1038
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:1038
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:1048
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:1048
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2106
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2415
+msgid "Required"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2418
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2434
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2437
+msgid "External Source"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2440
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2457
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2461
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2463
+msgid "Active"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2469
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2472
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2475
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2632
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2640
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2652
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2675
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2689
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2690
+msgid "Source"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2691
+msgid "Type"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2695
+msgid "Version"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2696
+msgid "Status"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2745
+#: ../includes/admin/class-wbc-admin-views.php:450
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2750
+#: ../includes/admin/class-wbc-admin-views.php:455
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2756
+#: ../includes/admin/class-wbc-admin-views.php:461
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2828
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2861
+msgid "Install"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2867
+msgid "Update"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2870
+msgid "Activate"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2901
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2903
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2944
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:2946
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3053
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3079
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3303
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3647
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3650
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3652
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3656
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3658
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3659
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3661
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3666
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3667
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3669
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3674
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/admin/assets/class-tgm-plugin-activation.php:3674
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:59
+msgid "Invalid token request"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:77
+#: ../includes/admin/class-wbc-admin-views.php:117
+msgid "Please Enter License Key"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:101
+msgid "License Already Registered"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:120
+msgid "Theme License Key Here..."
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:121
+msgid "Please Input Valid License"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:121
+msgid "Success License Registered! "
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:122
+msgid "Register"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:124
+#: ../includes/admin/class-wbc-admin-views.php:132
+#, php-format
+msgid ""
+"Don't have a license or need another? <a href=\"%1$s\" target=\"_blank\">Get "
+"One Now</a>"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:130
+msgid "Awesome your site is validated"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:146
+msgid "907 Theme Product Registration"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:147
+msgid ""
+"Please activate your license for NineZeroSeven(907) WordPress theme to "
+"import premium plugins and import premade demos."
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:265
+#: ../includes/admin/class-wbc-admin-views.php:268
+msgid "907 Theme"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:273
+#: ../includes/admin/class-wbc-admin-views.php:277
+msgid "Registration"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:282
+#: ../includes/admin/class-wbc-admin-views.php:286
+msgid "Plugins"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:291
+#: ../includes/admin/class-wbc-admin-views.php:295
+msgid "Support"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:300
+#: ../includes/admin/class-wbc-admin-views.php:304
+#: ../includes/admin/configs/theme-config.php:2744
+#: ../includes/admin/configs/theme-config.php:2745
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:309
+#: ../includes/admin/class-wbc-admin-views.php:313
+msgid "Demo Importer"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:381
+msgid "Welcome to 907 Theme"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:388
+#, php-format
+msgid ""
+"Thank you for choosing NineZeroseven(907) theme! Please <a href=\"%1$s"
+"\">register your license</a> to import demos and install included premium "
+"plugins. Need any help check out the <a href=\"%2$s\" target=\"_blank"
+"\">Theme's Support Forum</a>."
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:390
+#, php-format
+msgid ""
+"Thank you for choosing NineZeroseven(907) theme! You can import demos <a "
+"href=\"%1$s\">Here</a> and install Premium Plugins <a href=\"%2$s\">Here</"
+"a>. Need any help check out the <a href=\"%3$s\" target=\"_blank\">Theme's "
+"Support Forum</a>."
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:422
+msgid "<strong>You must activate your license to import demos.</strong>"
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:424
+msgid ""
+"Works best to import on a new install of WordPress. <br/><strong>Please Note:"
+"</strong> Any images imported are for demonstration purpose only and may not "
+"be used on live site without getting the proper permission and/or license "
+"for usage of images."
+msgstr ""
+
+#: ../includes/admin/class-wbc-admin-views.php:465
+#, php-format
+msgid "Deactivate %2$s"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:79
+msgid "Link Title"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:85
+msgid "Enter Link Here"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:86
+msgid "This must be a URL starting with http://"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:96
+msgid "Link Format"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:117
+msgid "Quote's Credit/Name"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:124
+msgid "Quote Message"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:125
+msgid "Enter quote below"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:135
+msgid "Quote Format"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:156
+#: ../includes/admin/configs/meta-config.php:520
+msgid "Video Embed Code"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:157
+#: ../includes/admin/configs/meta-config.php:521
+msgid "Enter embed code below"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:167
+msgid "Video Format"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:189
+msgid "Enter MP3 URL Here"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:196
+msgid "Enter OGG URL Here"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:202
+msgid "Audio Embed Code"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:203
+msgid "Optional: Enter Embed/Shortcode code Here"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:213
+msgid "Audio Format"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:233
+#: ../includes/admin/configs/meta-config.php:529
+msgid "Gallery Images"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:234
+#: ../includes/admin/configs/meta-config.php:530
+msgid "You can add images here for slider/gallery."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:242
+msgid "Gallery Format"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:270
+#: ../includes/admin/configs/meta-config.php:613
+#: ../includes/config-woo/woo-admin.php:151
+msgid "Page Layout"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:279
+#: ../includes/admin/configs/meta-config.php:350
+#: ../includes/admin/configs/meta-config.php:361
+#: ../includes/admin/configs/meta-config.php:623
+#: ../includes/admin/configs/theme-config.php:1713
+#: ../includes/config-woo/woo-admin.php:160
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:280
+#: ../includes/admin/configs/meta-config.php:351
+#: ../includes/admin/configs/meta-config.php:624
+#: ../includes/admin/configs/theme-config.php:1714
+#: ../includes/config-woo/woo-admin.php:161
+msgid "You can create additional sidebars under Appearance > Widgets."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:287
+#: ../includes/admin/configs/meta-config.php:438
+#: ../includes/admin/configs/meta-config.php:672
+#: ../includes/config-woo/woo-admin.php:168
+msgid "Main Menu"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:288
+#: ../includes/admin/configs/meta-config.php:295
+#: ../includes/admin/configs/meta-config.php:439
+#: ../includes/admin/configs/meta-config.php:446
+#: ../includes/admin/configs/meta-config.php:673
+#: ../includes/admin/configs/meta-config.php:680
+#: ../includes/config-woo/woo-admin.php:169
+msgid "You can create additional menus under Appearance > Menus."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:306
+#: ../includes/admin/configs/meta-config.php:457
+#: ../includes/admin/configs/meta-config.php:700
+msgid "Show/Hide Breadcrumb"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:313
+#: ../includes/admin/configs/meta-config.php:691
+msgid "Inherit Options"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:314
+#: ../includes/admin/configs/meta-config.php:692
+msgid ""
+"This option will inherit some options from the selected page(ie menus, logo/"
+"title)"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:325
+#: ../includes/admin/configs/meta-config.php:478
+#: ../includes/admin/configs/meta-config.php:711
+#: ../includes/admin/configs/meta-config.php:3199
+#: ../includes/config-woo/woo-admin.php:179
+msgid "Page Options"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:379
+#: ../includes/admin/configs/meta-config.php:422
+#: ../includes/admin/configs/meta-config.php:632
+msgid "Menu Position"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:380
+#: ../includes/admin/configs/meta-config.php:633
+msgid "Select where you'd like the menu bar"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:394
+#: ../includes/admin/configs/meta-config.php:648
+msgid "Show Menu After"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:395
+#: ../includes/admin/configs/meta-config.php:649
+msgid "Select what row you want the menu displayed below."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:465
+msgid "Is Parent"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:466
+msgid "Will set it as a parent/main page for other posts to inherit from."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:505
+msgid "Portfolio Type"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:506
+msgid "You can chose the content type here"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:507
+msgid "If left on \"Image\" it will use the \"Featured Image\"."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:544
+#: ../includes/vc_extend/vc-functions.php:1967
+#: ../includes/vc_extend/vc-functions.php:2264
+#: ../includes/vc_extend/vc-functions.php:2400
+#: ../includes/vc_extend/vc-functions.php:4494
+#: ../includes/vc_extend/vc-functions.php:4553
+msgid "Image Size"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:545
+msgid "This will be used for masonry galleries."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:546
+msgid "Make sure to set the \"Featured Image\""
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:550
+#: ../includes/vc_extend/vc-functions.php:1089
+msgid "Square"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:551
+msgid "2x Width"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:552
+msgid "2x Height"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:553
+msgid "2x Width & Height"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:562
+msgid "External Link"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:563
+msgid "Link to a external link, can also be linked to internal pages. "
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:569
+msgid "Link target"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:570
+msgid "Open link in a new window or the same window when clicked."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:579
+msgid "Link Icon"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:595
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:733
+#: ../includes/admin/configs/meta-config.php:797
+msgid "Reuseables"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:742
+msgid "Reuseable Befores"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:754
+msgid "Before"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:759
+msgid "Sets sections to displayed at top of page"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:768
+msgid "Reuseables Afters"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:780
+msgid "After"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:781
+msgid "Sets sections to displayed at bottom of page"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:821
+msgid "General"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:829
+#: ../includes/admin/configs/theme-config.php:98
+msgid "Boxed Layout"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:830
+msgid "Enables boxed layout"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:831
+#: ../includes/admin/configs/meta-config.php:2786
+#: ../includes/admin/configs/meta-config.php:2953
+#: ../includes/admin/configs/meta-config.php:3015
+#: ../includes/admin/configs/meta-config.php:3025
+#: ../includes/admin/configs/meta-config.php:3071
+#: ../includes/admin/configs/meta-config.php:3081
+#: ../includes/admin/configs/theme-config.php:101
+#: ../includes/admin/configs/theme-config.php:133
+#: ../includes/admin/configs/theme-config.php:2338
+#: ../includes/admin/configs/theme-config.php:2484
+#: ../includes/admin/configs/theme-config.php:2546
+#: ../includes/admin/configs/theme-config.php:2556
+#: ../includes/admin/configs/theme-config.php:2602
+#: ../includes/admin/configs/theme-config.php:2612
+msgid "Enable"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:832
+#: ../includes/admin/configs/meta-config.php:2787
+#: ../includes/admin/configs/meta-config.php:2954
+#: ../includes/admin/configs/meta-config.php:3016
+#: ../includes/admin/configs/meta-config.php:3026
+#: ../includes/admin/configs/meta-config.php:3072
+#: ../includes/admin/configs/meta-config.php:3082
+#: ../includes/admin/configs/theme-config.php:102
+#: ../includes/admin/configs/theme-config.php:134
+#: ../includes/admin/configs/theme-config.php:2339
+#: ../includes/admin/configs/theme-config.php:2485
+#: ../includes/admin/configs/theme-config.php:2547
+#: ../includes/admin/configs/theme-config.php:2557
+#: ../includes/admin/configs/theme-config.php:2603
+#: ../includes/admin/configs/theme-config.php:2613
+msgid "Disable"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:841
+#: ../includes/admin/configs/theme-config.php:107
+msgid "Body Background"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:844
+#: ../includes/admin/configs/theme-config.php:110
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:850
+#: ../includes/admin/configs/theme-config.php:116
+msgid "Boxed Width"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:851
+#: ../includes/admin/configs/theme-config.php:117
+msgid "Changes width of boxed area, default is 1240px"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:860
+#: ../includes/vc_extend/vc-functions.php:1416
+#: ../includes/vc_extend/vc-functions.php:1532
+#: ../includes/vc_extend/vc-functions.php:1938
+#: ../includes/vc_extend/vc-functions.php:4596
+#: ../includes/vc_extend/vc-functions.php:4850
+#: ../includes/vc_extend/vc-functions.php:4880
+#: ../includes/vc_extend/vc-functions.php:5155
+msgid "Font Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:861
+msgid "Change the body font color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:871
+#: ../includes/admin/configs/theme-config.php:140
+msgid "Primary Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:872
+#: ../includes/admin/configs/theme-config.php:141
+msgid "Change the main colors(links,buttons,etc)"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:880
+#: ../includes/admin/configs/theme-config.php:149
+msgid "Page BG Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:881
+#: ../includes/admin/configs/theme-config.php:150
+msgid "Change the page background color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:891
+#: ../includes/admin/configs/theme-config.php:160
+msgid "Page Content Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:892
+#: ../includes/admin/configs/theme-config.php:161
+msgid "Change the primary color.(boxes,borders,etc)"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:900
+#: ../includes/admin/configs/theme-config.php:169
+msgid "Image Overlay Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:901
+#: ../includes/admin/configs/theme-config.php:170
+msgid ""
+"Changes overlay on images when hovered over, when left blank color will be "
+"used from \"Primary Color\" field above. "
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:916
+#: ../includes/admin/configs/theme-config.php:185
+msgid "Main Content Spacing"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:917
+#: ../includes/admin/configs/theme-config.php:186
+msgid "Set spacing for top and bottom of main content"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:918
+#: ../includes/admin/configs/meta-config.php:1721
+#: ../includes/admin/configs/meta-config.php:1808
+#: ../includes/admin/configs/meta-config.php:2002
+#: ../includes/admin/configs/meta-config.php:2064
+#: ../includes/admin/configs/meta-config.php:2276
+#: ../includes/admin/configs/meta-config.php:2320
+#: ../includes/admin/configs/theme-config.php:187
+#: ../includes/admin/configs/theme-config.php:333
+#: ../includes/admin/configs/theme-config.php:980
+#: ../includes/admin/configs/theme-config.php:1054
+#: ../includes/admin/configs/theme-config.php:1217
+#: ../includes/admin/configs/theme-config.php:1276
+#: ../includes/admin/configs/theme-config.php:1456
+#: ../includes/admin/configs/theme-config.php:1503
+msgid "Enter width value + unit. IE 20px, 1em, etc."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:933
+#: ../includes/admin/configs/theme-config.php:244
+msgid "Header"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:939
+#: ../includes/admin/configs/theme-config.php:252
+msgid "Logos"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:945
+msgid "Override Nav logo/text"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:946
+msgid "If you'd like to override default logo/text"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:952
+#: ../includes/admin/configs/theme-config.php:258
+msgid "Logo Type"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:954
+#: ../includes/admin/configs/theme-config.php:259
+msgid "Select logo type you'd like in nav bar"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:963
+#: ../includes/admin/configs/theme-config.php:268
+msgid "Site Name"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:964
+#: ../includes/admin/configs/theme-config.php:269
+msgid ""
+"If you'd like your site name different in nav bar then what you've set on "
+"settings page."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:975
+msgid "Site Navbar Logo"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:977
+#: ../includes/admin/configs/meta-config.php:989
+msgid "Upload logo"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:987
+#: ../includes/admin/configs/theme-config.php:287
+msgid "Transparent Logo"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:999
+#: ../includes/admin/configs/theme-config.php:297
+msgid "Sticky Logo"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1002
+#: ../includes/admin/configs/theme-config.php:300
+msgid "Used if sticky menu is enabled, leave blank to use default logo."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1013
+#: ../includes/admin/configs/theme-config.php:308
+msgid "Main Header"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1020
+#: ../includes/admin/configs/theme-config.php:316
+msgid "100% Menu Bar Width"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1021
+#: ../includes/admin/configs/theme-config.php:317
+msgid "Makes the menu bar/logo area full width."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1029
+#: ../includes/admin/configs/theme-config.php:344
+msgid "Menu Bar Height"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1030
+#: ../includes/admin/configs/theme-config.php:345
+msgid "If you'd like to change the height of the menu bar, enter value here"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1041
+#: ../includes/admin/configs/theme-config.php:356
+msgid "Show/Hide Topbar"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1042
+#: ../includes/admin/configs/theme-config.php:357
+msgid "You can choose to show/hide the top bar here."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1052
+msgid "Override Topbar Content"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1053
+msgid "Check this if you'd like to override topbar content"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1071
+#: ../includes/admin/configs/theme-config.php:375
+#: ../includes/vc_extend/vc-functions.php:2601
+#: ../includes/vc_extend/vc-functions.php:2618
+#: ../includes/vc_extend/vc-functions.php:2635
+#: ../includes/vc_extend/vc-functions.php:2652
+#: ../includes/vc_extend/vc-functions.php:2668
+#: ../includes/vc_extend/vc-functions.php:2685
+#: ../includes/vc_extend/vc-functions.php:2702
+#: ../includes/vc_extend/vc-functions.php:3071
+#: ../includes/vc_extend/vc-functions.php:3088
+#: ../includes/vc_extend/vc-functions.php:3105
+#: ../includes/vc_extend/vc-functions.php:3122
+#: ../includes/vc_extend/vc-functions.php:3138
+#: ../includes/vc_extend/vc-functions.php:3155
+#: ../includes/vc_extend/vc-functions.php:3172
+#: ../includes/vc_extend/vc-functions.php:3412
+#: ../includes/vc_extend/vc-functions.php:3450
+#: ../includes/vc_extend/vc-functions.php:3467
+#: ../includes/vc_extend/vc-functions.php:3484
+#: ../includes/vc_extend/vc-functions.php:3501
+#: ../includes/vc_extend/vc-functions.php:3517
+#: ../includes/vc_extend/vc-functions.php:3534
+#: ../includes/vc_extend/vc-functions.php:3551
+msgid "Icon"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1072
+#: ../includes/admin/configs/theme-config.php:376
+msgid "Select a icon to appear before."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1080
+#: ../includes/admin/configs/theme-config.php:384
+msgid "Text"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1081
+#: ../includes/admin/configs/theme-config.php:385
+msgid "Text you would like displayed."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1090
+#: ../includes/admin/configs/theme-config.php:392
+msgid "Right Topbar Social"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1091
+#: ../includes/admin/configs/meta-config.php:1101
+#: ../includes/admin/configs/theme-config.php:393
+#: ../includes/admin/configs/theme-config.php:403
+msgid "Select a social icon to append a link to."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1100
+#: ../includes/admin/configs/theme-config.php:402
+msgid "Social Icon"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1108
+#: ../includes/admin/configs/theme-config.php:410
+msgid "Link URL"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1109
+#: ../includes/admin/configs/theme-config.php:411
+msgid "This must be a valid URL i.e http://www.twitter.com/username"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1110
+#: ../includes/admin/configs/theme-config.php:412
+msgid "This will make the icon linked."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1117
+#: ../includes/admin/configs/theme-config.php:419
+msgid "Open In New Window?"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1118
+#: ../includes/admin/configs/theme-config.php:420
+msgid "Check box to open link in a new window/browser"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1127
+#: ../includes/admin/configs/theme-config.php:428
+msgid "Top Bar Coloring"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1128
+#: ../includes/admin/configs/theme-config.php:429
+msgid "Check to enable color fields for top bar."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1135
+#: ../includes/admin/configs/theme-config.php:436
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1136
+#: ../includes/admin/configs/meta-config.php:1963
+#: ../includes/admin/configs/meta-config.php:1974
+#: ../includes/admin/configs/meta-config.php:2121
+#: ../includes/admin/configs/meta-config.php:2185
+#: ../includes/admin/configs/meta-config.php:2201
+#: ../includes/admin/configs/meta-config.php:2217
+#: ../includes/admin/configs/meta-config.php:2233
+#: ../includes/admin/configs/meta-config.php:2354
+#: ../includes/admin/configs/meta-config.php:2386
+#: ../includes/admin/configs/meta-config.php:2402
+#: ../includes/admin/configs/meta-config.php:2418
+#: ../includes/admin/configs/meta-config.php:2849
+#: ../includes/admin/configs/theme-config.php:437
+#: ../includes/admin/configs/theme-config.php:1178
+#: ../includes/admin/configs/theme-config.php:1189
+#: ../includes/admin/configs/theme-config.php:1337
+#: ../includes/admin/configs/theme-config.php:1389
+#: ../includes/admin/configs/theme-config.php:1401
+#: ../includes/admin/configs/theme-config.php:1413
+#: ../includes/admin/configs/theme-config.php:1425
+#: ../includes/admin/configs/theme-config.php:1530
+#: ../includes/admin/configs/theme-config.php:1554
+#: ../includes/admin/configs/theme-config.php:1566
+#: ../includes/admin/configs/theme-config.php:1578
+#: ../includes/admin/configs/theme-config.php:2386
+msgid "Change the background color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1148
+#: ../includes/admin/configs/theme-config.php:449
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1149
+#: ../includes/admin/configs/theme-config.php:450
+msgid "Change the text color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1160
+#: ../includes/admin/configs/theme-config.php:461
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1161
+#: ../includes/admin/configs/theme-config.php:462
+msgid "Change the link color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1172
+#: ../includes/admin/configs/theme-config.php:473
+msgid "Top Bar Link Hover Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1173
+#: ../includes/admin/configs/theme-config.php:474
+msgid "Change the link hover color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1187
+#: ../includes/admin/configs/theme-config.php:489
+msgid "Menu Shadow"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1188
+#: ../includes/admin/configs/theme-config.php:490
+msgid "Enable/disable menu bar shadow"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1196
+#: ../includes/admin/configs/theme-config.php:499
+msgid "Nav Bar Coloring"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1197
+msgid "Check to hide/show options for menu bar"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1204
+#: ../includes/admin/configs/theme-config.php:507
+msgid "Main Nav Background Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1205
+msgid "Change the main navigation background color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1217
+#: ../includes/admin/configs/meta-config.php:1434
+#: ../includes/admin/configs/theme-config.php:520
+#: ../includes/admin/configs/theme-config.php:692
+msgid "Main Nav Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1218
+#: ../includes/admin/configs/meta-config.php:1435
+#: ../includes/admin/configs/theme-config.php:521
+#: ../includes/admin/configs/theme-config.php:693
+msgid "Change the main navigation link color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1230
+#: ../includes/admin/configs/meta-config.php:1447
+#: ../includes/admin/configs/theme-config.php:533
+#: ../includes/admin/configs/theme-config.php:705
+msgid "Main Nav Hover Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1231
+#: ../includes/admin/configs/meta-config.php:1448
+#: ../includes/admin/configs/theme-config.php:534
+#: ../includes/admin/configs/theme-config.php:706
+msgid "Change the main navigation hover color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1243
+#: ../includes/admin/configs/meta-config.php:1460
+#: ../includes/admin/configs/theme-config.php:546
+#: ../includes/admin/configs/theme-config.php:718
+msgid "Main Nav Active Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1244
+#: ../includes/admin/configs/meta-config.php:1461
+#: ../includes/admin/configs/theme-config.php:547
+#: ../includes/admin/configs/theme-config.php:719
+msgid "Change the main navigation active color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1259
+#: ../includes/admin/configs/meta-config.php:1476
+#: ../includes/admin/configs/theme-config.php:562
+#: ../includes/admin/configs/theme-config.php:734
+msgid "Sub Nav Background Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1260
+#: ../includes/admin/configs/meta-config.php:1477
+#: ../includes/admin/configs/theme-config.php:563
+#: ../includes/admin/configs/theme-config.php:735
+msgid "Change the sub navigation background color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1271
+#: ../includes/admin/configs/meta-config.php:1488
+#: ../includes/admin/configs/theme-config.php:574
+#: ../includes/admin/configs/theme-config.php:746
+msgid "Sub Nav border Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1272
+#: ../includes/admin/configs/meta-config.php:1489
+#: ../includes/admin/configs/theme-config.php:575
+#: ../includes/admin/configs/theme-config.php:747
+msgid "Change the sub navigation border color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1283
+#: ../includes/admin/configs/meta-config.php:1500
+#: ../includes/admin/configs/theme-config.php:586
+#: ../includes/admin/configs/theme-config.php:758
+msgid "Sub Nav Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1284
+#: ../includes/admin/configs/meta-config.php:1501
+#: ../includes/admin/configs/theme-config.php:587
+#: ../includes/admin/configs/theme-config.php:759
+msgid "Change the sub navigation link color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1295
+#: ../includes/admin/configs/meta-config.php:1512
+#: ../includes/admin/configs/theme-config.php:598
+#: ../includes/admin/configs/theme-config.php:770
+msgid "Sub Nav Hover Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1296
+#: ../includes/admin/configs/meta-config.php:1513
+#: ../includes/admin/configs/theme-config.php:599
+#: ../includes/admin/configs/theme-config.php:771
+msgid "Change the sub navigation hover color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1310
+msgid "Enable Transparent Menu"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1311
+msgid ""
+"Only works when using full page/width template with menu set to top or "
+"bottom of browser"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1318
+#: ../includes/admin/configs/meta-config.php:1609
+#: ../includes/admin/configs/theme-config.php:869
+msgid "Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1319
+msgid "Changes the link color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1330
+msgid "Hover Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1331
+msgid "Changes the link hover color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1342
+msgid "Logo/Title Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1343
+msgid "Changes color of site title."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1361
+#: ../includes/admin/configs/theme-config.php:617
+msgid "Sticky Header"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1368
+#: ../includes/admin/configs/theme-config.php:625
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1369
+#: ../includes/admin/configs/theme-config.php:626
+msgid ""
+"Here you can choose to enable/disable the sticky menu(menu follows on scroll)"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1376
+#: ../includes/admin/configs/theme-config.php:634
+msgid "Elastic Menu"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1377
+#: ../includes/admin/configs/theme-config.php:635
+msgid "Here you can choose to enable/disable the shrinking menu feature."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1388
+#: ../includes/admin/configs/theme-config.php:647
+msgid "Menu Bar Shrink To"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1389
+#: ../includes/admin/configs/theme-config.php:648
+msgid "If you'd like to change the small menu height, do so here"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1404
+#: ../includes/admin/configs/theme-config.php:661
+msgid "Menu Sticky Shadow"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1405
+#: ../includes/admin/configs/theme-config.php:662
+msgid "Enable/disable menu bar shadow when sticky enabled"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1413
+#: ../includes/admin/configs/theme-config.php:671
+msgid "Sticky Nav Bar Coloring"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1415
+#: ../includes/admin/configs/theme-config.php:673
+msgid "Check to enable color fields for Sticky menu"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1421
+#: ../includes/admin/configs/theme-config.php:679
+msgid "Sticky Nav Background Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1422
+#: ../includes/admin/configs/theme-config.php:680
+msgid "Change the background color for the menu bar when scrolled."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1532
+#: ../includes/admin/configs/theme-config.php:790
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1540
+#: ../includes/admin/configs/theme-config.php:798
+msgid "Always Active"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1541
+#: ../includes/admin/configs/theme-config.php:799
+msgid ""
+"If enabled main nav will be hidden and mobile nav will always be active "
+"regardless of screen width. Leave disabled to have menu active at a certain "
+"screen width."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1550
+#: ../includes/admin/configs/theme-config.php:809
+msgid "Menu Visible At"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1551
+#: ../includes/admin/configs/theme-config.php:810
+msgid ""
+"Changes when the mobile menu becomes active/visible based on screen width. "
+"Default is 767px"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1561
+#: ../includes/admin/configs/theme-config.php:821
+#: ../includes/vc_extend/vc-functions.php:1291
+#: ../includes/vc_extend/vc-functions.php:1846
+#: ../includes/vc_extend/vc-functions.php:3986
+#: ../includes/vc_extend/vc-functions.php:4589
+#: ../includes/vc_extend/vc-functions.php:4843
+#: ../includes/vc_extend/vc-functions.php:4888
+#: ../includes/vc_extend/vc-functions.php:4997
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1562
+#: ../includes/admin/configs/theme-config.php:822
+msgid "Change the mobile menu background color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1573
+#: ../includes/admin/configs/theme-config.php:833
+msgid "Hover Background Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1574
+#: ../includes/admin/configs/theme-config.php:834
+msgid "Sets a background color when hover over links within the mobile menu"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1585
+#: ../includes/admin/configs/theme-config.php:845
+msgid "Toggle Icon Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1586
+#: ../includes/admin/configs/theme-config.php:846
+msgid "Changes color of mobile menu icon."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1597
+#: ../includes/admin/configs/theme-config.php:857
+msgid "Toggle Hover Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1598
+#: ../includes/admin/configs/theme-config.php:858
+msgid "Changes color of mobile menu icon when hovered over."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1610
+#: ../includes/admin/configs/theme-config.php:870
+msgid "Change the mobile menu link colors."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1621
+#: ../includes/admin/configs/theme-config.php:881
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1622
+#: ../includes/admin/configs/theme-config.php:882
+msgid "Change the mobile menu link hover colors."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1633
+#: ../includes/admin/configs/theme-config.php:893
+#: ../includes/vc_extend/vc-functions.php:1218
+#: ../includes/vc_extend/vc-functions.php:1803
+#: ../includes/vc_extend/vc-functions.php:4622
+#: ../includes/vc_extend/vc-functions.php:4864
+#: ../includes/vc_extend/vc-functions.php:4896
+msgid "Border Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1634
+#: ../includes/admin/configs/theme-config.php:894
+msgid "Change border color below mobile menu items"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1660
+#: ../includes/admin/configs/theme-config.php:921
+msgid "Page Title Bar"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1669
+msgid "Page Title Options"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1671
+msgid "You can choose to show/hide the options for this."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1680
+#: ../includes/admin/configs/theme-config.php:941
+msgid "Page Title Alignment"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1681
+#: ../includes/admin/configs/theme-config.php:942
+msgid "Aligns the text within the page title area based on selected."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1695
+#: ../includes/admin/configs/theme-config.php:956
+msgid "<b>Page Title Styling</b>"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1700
+#: ../includes/admin/configs/theme-config.php:961
+msgid "100% Page Title Width"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1701
+#: ../includes/admin/configs/theme-config.php:962
+msgid "Makes the page title area full width."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1719
+#: ../includes/admin/configs/theme-config.php:978
+msgid "Page Title Padding"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1720
+#: ../includes/admin/configs/theme-config.php:979
+msgid "Set page title padding top/bottom :)"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1736
+#: ../includes/admin/configs/theme-config.php:992
+msgid "Page Title Bar Background"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1737
+#: ../includes/admin/configs/theme-config.php:993
+msgid "You can set background here for page title bar area."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1753
+#: ../includes/admin/configs/theme-config.php:1009
+msgid "Page Title Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1754
+#: ../includes/admin/configs/theme-config.php:1010
+msgid "Changes the font for the page title within the page title bar"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1779
+#: ../includes/admin/configs/theme-config.php:1030
+msgid "<b>Breadcrumb Links</b>"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1784
+#: ../includes/admin/configs/theme-config.php:1035
+msgid "Breadcrumb Links"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1785
+#: ../includes/admin/configs/theme-config.php:1036
+msgid "Hide the breadcrumb links"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1806
+#: ../includes/admin/configs/theme-config.php:1052
+msgid "Breadcrumb Padding"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1807
+#: ../includes/admin/configs/theme-config.php:1053
+msgid "Set breadcrumb padding top/bottom :)"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1817
+#: ../includes/admin/configs/theme-config.php:1063
+msgid "Breadcrumb Typography"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1818
+#: ../includes/admin/configs/theme-config.php:1064
+msgid "Font options for breadcrumb links"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1840
+#: ../includes/admin/configs/theme-config.php:1083
+msgid "Breadcrumb Font Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1841
+#: ../includes/admin/configs/theme-config.php:1084
+msgid "Change the breadcrumb color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1856
+#: ../includes/admin/configs/theme-config.php:1096
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1857
+#: ../includes/admin/configs/theme-config.php:1097
+msgid "Change the breadcrumb link color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1871
+#: ../includes/admin/configs/theme-config.php:1108
+msgid "Breadcrumb Hover Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1872
+#: ../includes/admin/configs/theme-config.php:1109
+msgid "Change the breadcrumb hover color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1908
+#: ../includes/admin/configs/theme-config.php:1123
+msgid "Sidebars"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1916
+#: ../includes/admin/configs/theme-config.php:1131
+msgid "Widget Styling"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1924
+#: ../includes/admin/configs/theme-config.php:1139
+msgid "Sidebar Widgets Heading"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1925
+#: ../includes/admin/configs/theme-config.php:1140
+msgid "Font options for sidebar widgets"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1943
+#: ../includes/admin/configs/theme-config.php:1158
+msgid "Sidebar Widget Text Typography"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1944
+#: ../includes/admin/configs/theme-config.php:1159
+msgid "Font options for text in sidebar widgets"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1962
+#: ../includes/admin/configs/theme-config.php:1177
+msgid "Sidebar Widget Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1973
+#: ../includes/admin/configs/theme-config.php:1188
+msgid "Sidebar Widget Hover Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1984
+#: ../includes/admin/configs/theme-config.php:1199
+msgid "Sidebar Widget LI's Border Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:1985
+#: ../includes/admin/configs/meta-config.php:2249
+#: ../includes/admin/configs/theme-config.php:1200
+#: ../includes/admin/configs/theme-config.php:1437
+msgid "Changes color of border in ul widgets."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2000
+#: ../includes/admin/configs/theme-config.php:1215
+msgid "Sidebar Widget LI Spacing"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2001
+#: ../includes/admin/configs/theme-config.php:1216
+msgid "Sets spacing between li elements in sidebar widgets."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2013
+#: ../includes/admin/configs/theme-config.php:1230
+msgid "Footer"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2026
+#: ../includes/admin/configs/theme-config.php:1238
+msgid "Show/Hide Footer"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2035
+#: ../includes/admin/configs/theme-config.php:1247
+msgid "100% Footer Width"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2036
+#: ../includes/admin/configs/theme-config.php:1248
+msgid "Makes the footer area full width."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2047
+#: ../includes/admin/configs/theme-config.php:1259
+msgid "Show/Hide Footer Widget Area"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2062
+#: ../includes/admin/configs/theme-config.php:1274
+msgid "Footer Spacing"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2063
+#: ../includes/admin/configs/theme-config.php:1275
+#, php-format
+msgid ""
+"Set footer padding, using left and right is best with 100% full width footer "
+"enabled."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2078
+msgid "<b>Footer Widget Area Styling </b>"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2088
+#: ../includes/admin/configs/theme-config.php:1302
+msgid "Footer Coloring"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2089
+#: ../includes/admin/configs/theme-config.php:1303
+msgid "Check to enable color fields for footer."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2104
+#: ../includes/admin/configs/theme-config.php:1320
+msgid "Footer Background Image"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2105
+#: ../includes/admin/configs/theme-config.php:1321
+msgid "You can set background here for footer widget area."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2120
+#: ../includes/admin/configs/theme-config.php:1336
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2136
+#: ../includes/admin/configs/theme-config.php:1348
+msgid "Footer Widget Heading Typography"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2137
+#: ../includes/admin/configs/theme-config.php:1349
+msgid "Font options for footer widgets"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2160
+#: ../includes/admin/configs/theme-config.php:1368
+msgid "Footer Widget Text Typography"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2161
+#: ../includes/admin/configs/theme-config.php:1369
+msgid "Font options for text in footer widgets"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2184
+#: ../includes/admin/configs/theme-config.php:1388
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2200
+#: ../includes/admin/configs/theme-config.php:1400
+msgid "Footer Heading Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2216
+#: ../includes/admin/configs/theme-config.php:1412
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2232
+#: ../includes/admin/configs/theme-config.php:1424
+msgid "Footer Hover Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2248
+#: ../includes/admin/configs/theme-config.php:1436
+msgid "Footer Widget UL Border Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2274
+#: ../includes/admin/configs/theme-config.php:1454
+msgid "Footer LI Spacing"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2275
+#: ../includes/admin/configs/theme-config.php:1455
+msgid "Sets spacing between li elements in footer widgets."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2290
+#: ../includes/admin/configs/theme-config.php:1470
+msgid "Show/Hide Footer Copyright area."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2304
+#: ../includes/admin/configs/theme-config.php:1481
+msgid "<b>Copyright Bar</b>"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2318
+#: ../includes/admin/configs/theme-config.php:1501
+msgid "Copyright bar spacing"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2319
+#: ../includes/admin/configs/theme-config.php:1502
+#, php-format
+msgid ""
+"Set copyright padding, using left and right is best with 100% full width "
+"footer enabled."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2335
+#: ../includes/admin/configs/theme-config.php:1515
+msgid "Bottom Footer Coloring"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2336
+#: ../includes/admin/configs/theme-config.php:1516
+msgid ""
+"Check to enable color fields for bottom footer, this is the band at the "
+"bottom of the page."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2348
+#: ../includes/admin/configs/theme-config.php:1524
+msgid "<b>Copyright Bar Styling</b>"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2353
+#: ../includes/admin/configs/theme-config.php:1529
+msgid "Bottom Footer Background Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2369
+#: ../includes/admin/configs/theme-config.php:1541
+msgid "Bottom Footer Border Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2370
+#: ../includes/admin/configs/theme-config.php:1542
+msgid "Change the top border color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2385
+#: ../includes/admin/configs/theme-config.php:1553
+msgid "Bottom Footer Text Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2401
+#: ../includes/admin/configs/theme-config.php:1565
+msgid "Bottom Footer Link Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2417
+#: ../includes/admin/configs/theme-config.php:1577
+msgid "Bottom Footer Hover Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2436
+#: ../includes/admin/configs/meta-config.php:2446
+#: ../includes/admin/configs/theme-config.php:1944
+#: ../includes/admin/configs/theme-config.php:1967
+msgid "Typography"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2455
+#: ../includes/admin/configs/theme-config.php:1975
+msgid "Body Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2456
+#: ../includes/admin/configs/theme-config.php:1976
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2467
+#: ../includes/admin/configs/theme-config.php:1987
+msgid "Main Menu Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2468
+#: ../includes/admin/configs/theme-config.php:1988
+msgid "Specify the main menu font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2486
+#: ../includes/admin/configs/theme-config.php:2006
+msgid "Sub Menu Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2487
+#: ../includes/admin/configs/meta-config.php:2506
+#: ../includes/admin/configs/theme-config.php:2007
+#: ../includes/admin/configs/theme-config.php:2026
+msgid "Specify the Sub menu font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2505
+#: ../includes/admin/configs/theme-config.php:2025
+msgid "Mobile Menu Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2528
+#: ../includes/admin/configs/theme-config.php:2049
+msgid "Advanced Headings (H tags)"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2529
+#: ../includes/admin/configs/theme-config.php:2050
+msgid "Check to enable advanced headings/control"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2536
+#: ../includes/admin/configs/theme-config.php:2057
+msgid "Headings Font (H1-H6 tags)"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2537
+#: ../includes/admin/configs/theme-config.php:2058
+msgid "Specify the heading tags font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2557
+#: ../includes/admin/configs/theme-config.php:2078
+msgid "H1 Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2558
+#: ../includes/admin/configs/theme-config.php:2079
+msgid "Specify the H1 font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2575
+#: ../includes/admin/configs/theme-config.php:2098
+msgid "H2 Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2576
+#: ../includes/admin/configs/theme-config.php:2099
+msgid "Specify the h2 font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2593
+#: ../includes/admin/configs/theme-config.php:2118
+msgid "H3 Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2594
+#: ../includes/admin/configs/theme-config.php:2119
+msgid "Specify the h3 font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2611
+#: ../includes/admin/configs/theme-config.php:2138
+msgid "H4 Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2612
+#: ../includes/admin/configs/theme-config.php:2139
+msgid "Specify the h4 font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2629
+#: ../includes/admin/configs/theme-config.php:2158
+msgid "H5 Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2630
+#: ../includes/admin/configs/theme-config.php:2159
+msgid "Specify the H5 font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2648
+#: ../includes/admin/configs/theme-config.php:2178
+msgid "H6 Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2649
+#: ../includes/admin/configs/theme-config.php:2179
+msgid "Specify the H6 font properties."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2672
+#: ../includes/admin/configs/theme-config.php:2206
+msgid "Extra Headings"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2681
+#: ../includes/admin/configs/theme-config.php:2214
+msgid "Heading Styling 1, used in shortcodes."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2700
+#: ../includes/admin/configs/theme-config.php:2233
+msgid "Heading Styling 2, used in shortcodes."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2719
+#: ../includes/admin/configs/theme-config.php:2252
+msgid "Heading Styling 3, used in shortcodes."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2738
+#: ../includes/admin/configs/theme-config.php:2271
+msgid "Heading Styling 4, used in shortcodes."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2764
+#: ../includes/admin/configs/theme-config.php:2301
+msgid "Extras"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2775
+#: ../includes/admin/configs/meta-config.php:2782
+#: ../includes/admin/configs/theme-config.php:2327
+#: ../includes/admin/configs/theme-config.php:2334
+msgid "Page Loader"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2783
+#: ../includes/admin/configs/theme-config.php:2335
+msgid "Enable Page Loader?"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2796
+msgid "Override Page Loader"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2797
+msgid "Override theme option values"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2805
+#: ../includes/admin/configs/theme-config.php:2348
+msgid "Loader Style"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2806
+#: ../includes/admin/configs/theme-config.php:2349
+msgid "Page loader show before page loads."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2836
+#: ../includes/admin/configs/theme-config.php:2373
+msgid "Loader Size"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2837
+#: ../includes/admin/configs/theme-config.php:2374
+msgid "Changes size of loader"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2848
+#: ../includes/admin/configs/theme-config.php:2385
+msgid "Loader BG Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2863
+#: ../includes/admin/configs/theme-config.php:2397
+msgid "Loader Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2864
+#: ../includes/admin/configs/theme-config.php:2398
+msgid "Change the animated loader color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2882
+#: ../includes/admin/configs/theme-config.php:2413
+msgid "Form Styling"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2893
+#: ../includes/admin/configs/theme-config.php:2424
+msgid "Form Fields Height"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2894
+#: ../includes/admin/configs/theme-config.php:2425
+msgid "Height of inputs, selects, etc."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2905
+#: ../includes/admin/configs/theme-config.php:2436
+msgid "Form Field BG color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2906
+#: ../includes/admin/configs/theme-config.php:2437
+msgid "Change Form Field background color.(textarea,inputs,etc)"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2916
+#: ../includes/admin/configs/theme-config.php:2447
+msgid "Form Border Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2917
+#: ../includes/admin/configs/theme-config.php:2448
+msgid "Border around form fields"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2928
+#: ../includes/admin/configs/theme-config.php:2459
+msgid "Form Field Font Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2929
+#: ../includes/admin/configs/theme-config.php:2460
+msgid "Font color within form fields"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2939
+#: ../includes/admin/configs/theme-config.php:2470
+msgid "Form Field Label Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2940
+#: ../includes/admin/configs/theme-config.php:2471
+msgid "Font color for labels within form fields"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2950
+#: ../includes/admin/configs/theme-config.php:2481
+msgid "Select Wrap"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2951
+#: ../includes/admin/configs/theme-config.php:2482
+msgid ""
+"Can turn off/on the select wrap, which is the down arrow form selects. "
+"Disable this if you're having issues with other plugins"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2959
+#: ../includes/admin/configs/theme-config.php:2490
+msgid "Form Field Select BG Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2960
+#: ../includes/admin/configs/theme-config.php:2491
+msgid "Selects BG color behide arrow toggle."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2971
+#: ../includes/admin/configs/theme-config.php:2502
+msgid "Form Field Select Arrow Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2972
+#: ../includes/admin/configs/theme-config.php:2503
+msgid "Selects arrow color toggle."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2983
+#: ../includes/admin/configs/theme-config.php:2514
+msgid "Form Field Select Border Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:2984
+#: ../includes/admin/configs/theme-config.php:2515
+msgid "Changes left border color of select arrow"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3002
+#: ../includes/admin/configs/theme-config.php:2533
+msgid "Prev/Next Navigation"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3012
+#: ../includes/admin/configs/theme-config.php:2543
+msgid "Next/Prev Post Navigation"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3013
+#: ../includes/admin/configs/theme-config.php:2544
+msgid "Displays links to next/prev post when viewing single post pages."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3021
+#: ../includes/admin/configs/theme-config.php:2552
+msgid "Floating Side Navigation"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3022
+#: ../includes/admin/configs/theme-config.php:2553
+msgid "Next/Prev links are floated on the sides and expand when hovered."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3032
+#: ../includes/admin/configs/theme-config.php:2563
+msgid "Floating Nav Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3033
+#: ../includes/admin/configs/theme-config.php:2564
+msgid "Background color floating nav"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3044
+#: ../includes/admin/configs/theme-config.php:2575
+msgid "Floating Nav Hover Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3045
+#: ../includes/admin/configs/theme-config.php:2576
+msgid "Background color when hovered over floating nav"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3056
+#: ../includes/admin/configs/theme-config.php:2587
+msgid "Floating Nav Text Color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3057
+#: ../includes/admin/configs/theme-config.php:2588
+msgid "Changes text color within floating nav"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3067
+#: ../includes/admin/configs/theme-config.php:2598
+msgid "Navigation Below Posts"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3068
+#: ../includes/admin/configs/theme-config.php:2599
+msgid "Next/Prev links are shown at bottom of post content."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3077
+#: ../includes/admin/configs/theme-config.php:2608
+msgid "Navigation Below Main Content"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3078
+#: ../includes/admin/configs/theme-config.php:2609
+msgid ""
+"Next/Prev links are shown at bottom of main content, which makes it go full "
+"width and has more styling options."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3087
+#: ../includes/admin/configs/theme-config.php:2618
+msgid "Navigation Style"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3088
+#: ../includes/admin/configs/theme-config.php:2619
+msgid "Nav style options."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3109
+#: ../includes/admin/configs/theme-config.php:2640
+msgid "Navigation Padding"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3110
+#: ../includes/admin/configs/theme-config.php:2641
+msgid "Sets padding top/bottom of navigation container."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3111
+#: ../includes/admin/configs/theme-config.php:2642
+msgid "Can use px, em, %, etc."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3120
+#: ../includes/admin/configs/theme-config.php:2651
+msgid "Navigation Background"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3125
+#: ../includes/admin/configs/theme-config.php:2656
+msgid "Add background to the navigation container."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3131
+#: ../includes/admin/configs/theme-config.php:2662
+msgid "Navigation Background Overlay"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3132
+#: ../includes/admin/configs/theme-config.php:2663
+msgid ""
+"If you used a image background above, this will overlay it with a color."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3141
+#: ../includes/admin/configs/theme-config.php:2672
+msgid "Main Title Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3142
+#: ../includes/admin/configs/theme-config.php:2673
+msgid "Changes the font for links in the Prev/Next navigation area."
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3160
+#: ../includes/admin/configs/theme-config.php:2691
+msgid "Main Title Font Hover"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3161
+#: ../includes/admin/configs/theme-config.php:2692
+msgid "Change the font's hovered color"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3171
+#: ../includes/admin/configs/theme-config.php:2702
+msgid "Small Title Font"
+msgstr ""
+
+#: ../includes/admin/configs/meta-config.php:3172
+#: ../includes/admin/configs/theme-config.php:2703
+msgid ""
+"Changes small font used for some of the options for \"Navigation Style\" "
+"above"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:90
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:99
+msgid "Enables boxed layout site wide"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:129
+msgid "Retina Images"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:130
+msgid "Enables Retina Images"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:131
+msgid ""
+"You must upload images you want retina with @2x before the file extension i."
+"e image@2x.jpg. Or use WP Retina 2x Plugin which will generate retina images "
+"for you from your uploaded images. If you use WP Retina 2x Plugin, leave "
+"this option disabled."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:221
+msgid "CSS Code"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:222
+msgid "Add your CSS code here."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:231
+msgid "Custom JS Code"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:232
+msgid "Add custom JS code here, which will get added into the footer."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:277
+msgid "Main Logo"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:280
+msgid "Main default menu bar logo."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:290
+msgid "Used on page(s) that have transparent menu option selected."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:331
+msgid "Menu Bar Padding"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:332
+msgid "Set spacing for left and right of menubar"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:500
+msgid "Check to enable color fields for menu"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:508
+msgid ""
+"Change the main navigation background color. If you set opactity below 1 "
+"then the menu overlays the content below, if you have page title/breadcrumbs "
+"shown make sure to add padding to it since the menu will be over it."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:930
+msgid "Show/Hide Page Title Bar"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:931
+msgid "You can choose to show/hide the page title bar here."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1288
+msgid "Footer Columns"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1289
+msgid "Select how many columns you'd like in the footer"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1311
+msgid "<b>Footer Widget Area Styling</b>"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1487
+msgid "Footer Credit Area"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1488
+msgid "This is the credit area in the footer area"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1596
+msgid "Blog"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1604
+msgid "Author Box"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1605
+msgid "Uncheck to hide author box on single post pages"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1612
+msgid "Blog Post Style"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1613
+msgid "Can select your default blog style here"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1627
+msgid "Main Blog/Index Layout"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1628
+msgid "Select layout for blog/index page"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1642
+msgid "Main Pages Sidebar"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1643
+msgid "This option is for sidebar on main pages."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1644
+#: ../includes/admin/configs/theme-config.php:1667
+msgid ""
+"You can create additional sidebars on <strong>Appearance > Widgets</strong>"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1650
+msgid "Single Page Blog Layout"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1651
+msgid "Select layout for single blog page"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1665
+msgid "Single Pages Sidebar"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1666
+msgid "This option is for sidebar on single pages/posts."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1675
+#: ../includes/admin/configs/theme-config.php:1780
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1683
+msgid "Portfolio Slug"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1684
+msgid "Change the /portfolio/ url slug."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1685
+msgid ""
+"Slug should be named lowercase with hypens inplace of spaces. ie 'your-slug'"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1692
+msgid "Include Portfolio Search"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1693
+msgid "Checked will include portfolio in search results."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1699
+msgid "Portfolio Layout"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1700
+msgid "This is for Portfolio single page layout."
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1712
+msgid "Set a default sidebar for portfolio pages"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1727
+msgid "Reusables"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1750
+msgid "Global"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1759
+msgid "Global Before"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1760
+#: ../includes/admin/configs/theme-config.php:1770
+msgid "Sets default reuseable section to all pages,posts, etc"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1769
+msgid "Global After"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1788
+msgid "Portfolio Before"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1789
+#: ../includes/admin/configs/theme-config.php:1799
+msgid "Sets default reuseable section to all portfolio pages"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1798
+msgid "Portfolio After"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1810
+msgid "Posts"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1818
+msgid "Posts Before"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1819
+#: ../includes/admin/configs/theme-config.php:1829
+msgid "Sets default reuseable section to all post pages"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1828
+msgid "Posts After"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1848
+msgid "Pages Before"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1849
+#: ../includes/admin/configs/theme-config.php:1859
+msgid "Sets default reuseable section to all page pages"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1858
+msgid "Pages After"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1870
+msgid "MISC"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1878
+msgid "Category Before"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1879
+#: ../includes/admin/configs/theme-config.php:1889
+msgid "Sets default reuseable section to all category pages"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1888
+msgid "Category After"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1898
+msgid "Search Before"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1899
+#: ../includes/admin/configs/theme-config.php:1909
+msgid "Sets default reuseable section to all search pages"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1908
+msgid "Search After"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1919
+msgid "404 Before"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1920
+#: ../includes/admin/configs/theme-config.php:1930
+msgid "Sets default reuseable section to all 404"
+msgstr ""
+
+#: ../includes/admin/configs/theme-config.php:1929
+msgid "404 After"
+msgstr ""
+
+#: ../includes/admin/views/plugins.php:37
+#, php-format
+msgid ""
+"Whoops! Looks like you need to <a href=\"%1$s\">register your license</a> "
+"for NineZeroSeven Theme to unlock the premium plugins and other features."
+msgstr ""
+
+#: ../includes/admin/views/plugins.php:115
+msgid " New Update Available!."
+msgstr ""
+
+#: ../includes/admin/views/register.php:17
+msgid ""
+"Please register your license to unlock the premium plugins and theme demo "
+"imports."
+msgstr ""
+
+#: ../includes/admin/views/register.php:30
+#, php-format
+msgid ""
+"<strong>Please note</strong> as outlined in <a href=\"%1$s\" target=\"_blank"
+"\">Envato's Standard License</a> that your purchase license grants you to "
+"use the product on <strong>1 domain name</strong>, if you require more "
+"installs you'd need to purchase seperate license's for each domain name."
+msgstr ""
+
+#: ../includes/admin/views/register.php:33
+msgid "Where To Find Your License Key"
+msgstr ""
+
+#: ../includes/admin/views/register.php:36
+#, php-format
+msgid ""
+"Go to your <a href=\"%1$s\" target=\"_blank\">Downloads Section on "
+"Themeforest</a> and locate your NineZeroSeven(907) theme purchase."
+msgstr ""
+
+#: ../includes/admin/views/register.php:40
+msgid ""
+"Click the \"Download\" button, in the menu that appears choose \"License "
+"certificate & purchase code\" to download."
+msgstr ""
+
+#: ../includes/admin/views/register.php:44
+msgid ""
+"Open the \"License certificate & purchase code\" file and locate \"Item "
+"Purchase Code:\" copy and paste it into input field above and click "
+"\"Register\" button."
+msgstr ""
+
+#: ../includes/admin/views/register.php:48
+msgid ""
+"Once activated you'll have access to the premium plugins and demo imports."
+msgstr ""
+
+#: ../includes/admin/views/support.php:12
+msgid "Get Support."
+msgstr ""
+
+#: ../includes/admin/views/support.php:15
+msgid ""
+"The support forum has been set up to provide you with a better support "
+"experience and needed features like image uploading, code inserting/"
+"highlighting, search topics, and much much more. If you run into any issues "
+"or just have question about a feature, plugin, or something else related to "
+"your theme purchase please post on the Theme's Support Forum"
+msgstr ""
+
+#: ../includes/admin/views/support.php:19
+msgid "Visit Support Forum"
+msgstr ""
+
+#: ../includes/admin/views/support.php:20
+msgid "How To Sign Up"
+msgstr ""
+
+#: ../includes/admin/views/support.php:21
+msgid "Search Support Forum"
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:11
+msgid "View Changelog"
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:17
+msgid "Version 4.1 Brings Great Features & Options! 🚀"
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:18
+msgid ""
+"Massive update which includes 10 new demos, mobile video background, "
+"improved theme options with many more theme options added like the new "
+"alpha(opacity) option added to most color option fields. And of course this "
+"new 907 theme managemnet area you're currently viewing keeping everything in "
+"one location!"
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:19
+msgid "See v4.1 Landing Page"
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:25
+msgid "10 New Demos"
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:26
+msgid ""
+"Version 4.1 adds 10 brand new demos for tattoo artists, cupcake bakery, "
+"watch shop, taxi, portfolio, lawyer, resume, hosting, yoga and medical. "
+"Demos can be imported in Theme Options panel."
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:29
+msgid "Mobile Video Backgrounds"
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:30
+msgid ""
+"Till recently mobile video backgrounds were not supported on mobile devices "
+"like Iphone/Ipad. With recent changes mobile devices now support playsinline "
+"tag, on those devices your video will be able to play!"
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:33
+msgid "WooCommerce Shop"
+msgstr ""
+
+#: ../includes/admin/views/welcome.php:34
+msgid ""
+"New demo added \"Watch Shop\" which has ajax pagination, animated add to "
+"cart, and more. Default WooCommerce elements found in Page Builder have "
+"added options for pagination, columns, and more."
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:81
+msgid "Columns"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:91
+msgid "Per page"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:95
+msgid ""
+"The \"per_page\" shortcode determines how many products to show on the page"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:100
+#: ../includes/vc_extend/vc-functions.php:2056
+#: ../includes/vc_extend/vc-functions.php:2457
+msgid "Paginate?"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:105
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:112
+#: ../includes/vc_extend/vc-functions.php:1189
+#: ../includes/vc_extend/vc-functions.php:1196
+#: ../includes/vc_extend/vc-functions.php:1204
+#: ../includes/vc_extend/vc-functions.php:1213
+#: ../includes/vc_extend/vc-functions.php:1230
+#: ../includes/vc_extend/vc-functions.php:1429
+#: ../includes/vc_extend/vc-functions.php:1437
+#: ../includes/vc_extend/vc-functions.php:1445
+#: ../includes/vc_extend/vc-functions.php:1453
+#: ../includes/vc_extend/vc-functions.php:1462
+#: ../includes/vc_extend/vc-functions.php:1693
+#: ../includes/vc_extend/vc-functions.php:1703
+#: ../includes/vc_extend/vc-functions.php:1720
+#: ../includes/vc_extend/vc-functions.php:1747
+#: ../includes/vc_extend/vc-functions.php:2028
+#: ../includes/vc_extend/vc-functions.php:2036
+#: ../includes/vc_extend/vc-functions.php:2044
+#: ../includes/vc_extend/vc-functions.php:2052
+#: ../includes/vc_extend/vc-functions.php:2061
+#: ../includes/vc_extend/vc-functions.php:2068
+#: ../includes/vc_extend/vc-functions.php:2113
+#: ../includes/vc_extend/vc-functions.php:2139
+#: ../includes/vc_extend/vc-functions.php:2171
+#: ../includes/vc_extend/vc-functions.php:2178
+#: ../includes/vc_extend/vc-functions.php:2308
+#: ../includes/vc_extend/vc-functions.php:2437
+#: ../includes/vc_extend/vc-functions.php:2445
+#: ../includes/vc_extend/vc-functions.php:2453
+#: ../includes/vc_extend/vc-functions.php:2462
+#: ../includes/vc_extend/vc-functions.php:2482
+#: ../includes/vc_extend/vc-functions.php:3317
+#: ../includes/vc_extend/vc-functions.php:5081
+msgid "Yes, please"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:109
+#: ../includes/vc_extend/vc-functions.php:2065
+#: ../includes/vc_extend/vc-functions.php:2479
+msgid "Ajax Pagination?"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:111
+#: ../includes/vc_extend/vc-functions.php:2067
+#: ../includes/vc_extend/vc-functions.php:2481
+msgid "This option will load next post without page reload."
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:117
+#: ../includes/vc_extend/vc-functions.php:2073
+msgid "Pagination Align"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:120
+#: ../includes/vc_extend/vc-functions.php:1084
+#: ../includes/vc_extend/vc-functions.php:1246
+#: ../includes/vc_extend/vc-functions.php:1261
+#: ../includes/vc_extend/vc-functions.php:1281
+#: ../includes/vc_extend/vc-functions.php:1585
+#: ../includes/vc_extend/vc-functions.php:1603
+#: ../includes/vc_extend/vc-functions.php:1626
+#: ../includes/vc_extend/vc-functions.php:1765
+#: ../includes/vc_extend/vc-functions.php:1816
+#: ../includes/vc_extend/vc-functions.php:1958
+#: ../includes/vc_extend/vc-functions.php:2001
+#: ../includes/vc_extend/vc-functions.php:2016
+#: ../includes/vc_extend/vc-functions.php:2076
+#: ../includes/vc_extend/vc-functions.php:2089
+#: ../includes/vc_extend/vc-functions.php:2120
+#: ../includes/vc_extend/vc-functions.php:2275
+#: ../includes/vc_extend/vc-functions.php:2290
+#: ../includes/vc_extend/vc-functions.php:2359
+#: ../includes/vc_extend/vc-functions.php:2410
+#: ../includes/vc_extend/vc-functions.php:2425
+#: ../includes/vc_extend/vc-functions.php:2469
+#: ../includes/vc_extend/vc-functions.php:2490
+#: ../includes/vc_extend/vc-functions.php:2723
+#: ../includes/vc_extend/vc-functions.php:2736
+#: ../includes/vc_extend/vc-functions.php:2747
+#: ../includes/vc_extend/vc-functions.php:2894
+#: ../includes/vc_extend/vc-functions.php:2905
+#: ../includes/vc_extend/vc-functions.php:2916
+#: ../includes/vc_extend/vc-functions.php:3572
+#: ../includes/vc_extend/vc-functions.php:3612
+#: ../includes/vc_extend/vc-functions.php:3624
+#: ../includes/vc_extend/vc-functions.php:3919
+#: ../includes/vc_extend/vc-functions.php:3937
+#: ../includes/vc_extend/vc-functions.php:3996
+#: ../includes/vc_extend/vc-functions.php:4069
+#: ../includes/vc_extend/vc-functions.php:4091
+#: ../includes/vc_extend/vc-functions.php:4113
+#: ../includes/vc_extend/vc-functions.php:4241
+#: ../includes/vc_extend/vc-functions.php:4409
+#: ../includes/vc_extend/vc-functions.php:4813
+msgid "Default"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:121
+#: ../includes/vc_extend/vc-functions.php:2077
+#: ../includes/vc_extend/vc-functions.php:2121
+#: ../includes/vc_extend/vc-functions.php:2472
+#: ../includes/vc_extend/vc-functions.php:2931
+#: ../includes/vc_extend/vc-functions.php:3999
+#: ../includes/vc_extend/vc-functions.php:4583
+#: ../includes/vc_extend/vc-functions.php:4815
+msgid "Center"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:122
+#: ../includes/vc_extend/vc-functions.php:2078
+#: ../includes/vc_extend/vc-functions.php:2122
+#: ../includes/vc_extend/vc-functions.php:2471
+#: ../includes/vc_extend/vc-functions.php:2930
+#: ../includes/vc_extend/vc-functions.php:3998
+#: ../includes/vc_extend/vc-functions.php:4582
+#: ../includes/vc_extend/vc-functions.php:4816
+msgid "Right"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:123
+#: ../includes/vc_extend/vc-functions.php:2079
+#: ../includes/vc_extend/vc-functions.php:2470
+#: ../includes/vc_extend/vc-functions.php:2929
+#: ../includes/vc_extend/vc-functions.php:3997
+#: ../includes/vc_extend/vc-functions.php:4581
+#: ../includes/vc_extend/vc-functions.php:4814
+msgid "Left"
+msgstr ""
+
+#: ../includes/config-woo/extend/class-wbc-woo-shortcodes.php:126
+#: ../includes/vc_extend/vc-functions.php:2082
+msgid "Align pagination buttons."
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:16
+msgid "WooCommerce"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:17
+msgid "Settings for Woocommerce, change how many displayed and more. :)"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:24
+msgid "Single Page Layout"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:25
+msgid "Layout for single shop pages"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:38
+msgid "Shop Count"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:39
+msgid "How many to display on shop page"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:50
+msgid "Shop Columns"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:51
+msgid "Changes how many displayed per row"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:66
+msgid "Related Count"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:67
+msgid "How many related items to show"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:78
+msgid "Related Columns"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:79
+#: ../includes/config-woo/woo-admin.php:106
+msgid "How many displayed per row"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:93
+msgid "Upsell Count"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:94
+msgid "How many upsell items to show"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:105
+msgid "Upsell Columns"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:116
+msgid "Animate To Cart?"
+msgstr ""
+
+#: ../includes/config-woo/woo-admin.php:117
+msgid ""
+"Animates image to cart when on shop pages. Works best when sticky menu is "
+"enabled."
+msgstr ""
+
+#: ../includes/config-woo/woo-functions.php:301
+msgid "View Shopping Cart"
+msgstr ""
+
+#: ../includes/config-woo/woo-functions.php:407
+msgid "View Details"
+msgstr ""
+
+#: ../includes/config-woo/woo-functions.php:430
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../includes/config-woo/woo-functions.php:433
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: ../includes/functions/class-wbc-page-nav-next-prev.php:163
+#: ../includes/functions/class-wbc-page-nav-next-prev.php:194
+msgid "PREVIOUS"
+msgstr ""
+
+#: ../includes/functions/class-wbc-page-nav-next-prev.php:171
+#: ../includes/functions/class-wbc-page-nav-next-prev.php:203
+msgid "NEXT"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:23
+msgid "WBC Recent Posts"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:24
+msgid "Display recent posts with thumbnails"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:107
+msgid "No Posts To Display"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:130
+msgid "Latest Posts"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:150
+#: ../includes/vc_extend/vc-functions.php:2003
+#: ../includes/vc_extend/vc-functions.php:2277
+#: ../includes/vc_extend/vc-functions.php:2412
+msgid "ID"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:151
+msgid "Author"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:153
+#: ../includes/functions/theme-functions.php:1303
+#: ../includes/functions/theme-functions.php:1445
+#: ../includes/vc_extend/vc-functions.php:2005
+#: ../includes/vc_extend/vc-functions.php:2279
+#: ../includes/vc_extend/vc-functions.php:2414
+#: ../includes/vc_extend/vc-functions.php:3266
+#: ../includes/vc_extend/vc-functions.php:3340
+#: ../includes/vc_extend/vc-functions.php:4471
+msgid "Name"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:154
+#: ../includes/vc_extend/vc-functions.php:2007
+#: ../includes/vc_extend/vc-functions.php:2281
+#: ../includes/vc_extend/vc-functions.php:2416
+msgid "Random"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:161
+#: ../includes/functions/custom-widgets.php:301
+#: ../includes/functions/custom-widgets.php:402
+msgid "Title:"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:165
+msgid "Post Type"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:176
+#: ../includes/vc_extend/vc-functions.php:1998
+#: ../includes/vc_extend/vc-functions.php:2272
+#: ../includes/vc_extend/vc-functions.php:2407
+msgid "Order By"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:187
+msgid "Post Count:"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:192
+msgid "Only show posts with thumbnails"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:229
+msgid "WBC Recent Comments"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:230
+msgid "Display recent comments with thumbnails"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:266
+msgid "Says"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:293
+msgid "Recent Comments"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:306
+msgid "Comment Count:"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:343
+msgid "WBC Video"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:344
+msgid "Display responsive video"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:393
+msgid "Responsive Video"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:407
+msgid "Video URL"
+msgstr ""
+
+#: ../includes/functions/custom-widgets.php:409
+msgid "Please include URL, I.E https://vimeo.com/1084537"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:107
+msgid "Lead"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:321
+msgid "Search Results"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:323
+msgid "Author Posts"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:325
+#: ../includes/functions/theme-functions.php:430
+msgid "Page Not Found"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:356
+#: ../includes/functions/theme-functions.php:358
+msgid "Home"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:428
+msgid "Posts By:"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:432
+msgid "Search Results:"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:434
+msgid "Tag: "
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:436
+msgid "Archives: "
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1260
+#, php-format
+msgid "Search Results For: %s"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1264
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1305
+#: ../includes/functions/theme-functions.php:1447
+msgid "Email"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1307
+#: ../includes/functions/theme-functions.php:1449
+msgid "Website"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1311
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1315
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1316
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1317
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1318
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1321
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1322
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1323
+msgid "Cancel reply"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1324
+msgid "Post Comment"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1402
+msgid "Your Comment Awaiting Moderation"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1430
+msgid "Comment*"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1473
+msgid "Older posts"
+msgstr ""
+
+#: ../includes/functions/theme-functions.php:1477
+msgid "Newer posts"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:51
+msgid "Select Icon "
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:55
+msgid ""
+"Click and select icon of your choice. If you can't find the one that suits "
+"for your purpose"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:55
+msgid "you can"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:55
+msgid "add new here"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:100
+#: ../includes/vc_extend/vc-functions.php:106
+msgid "Theme Primary Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:336
+msgid "No categories created for this option yet."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1085
+#: ../includes/vc_extend/vc-functions.php:1766
+msgid "Small"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1086
+#: ../includes/vc_extend/vc-functions.php:1767
+msgid "Medium"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1087
+#: ../includes/vc_extend/vc-functions.php:1768
+msgid "Large"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1088
+msgid "Full"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1090
+msgid "Portrait"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1091
+msgid "Landscaped"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1092
+msgid "600 x 400"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1093
+msgid "500 x 400"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1094
+msgid "1140 Width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1095
+msgid "848 Width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1180
+#: ../includes/vc_extend/vc-functions.php:1409
+msgid "Anchor ID"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1182
+#: ../includes/vc_extend/vc-functions.php:1411
+msgid "Use this field to enter anchor tag for menu items. eg about,contact,etc"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1186
+#: ../includes/vc_extend/vc-functions.php:1442
+msgid "Equal Height Columns?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1188
+#: ../includes/vc_extend/vc-functions.php:1444
+msgid "If selected, will make inner columns same height."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1193
+#: ../includes/vc_extend/vc-functions.php:1450
+msgid "Vertical Center Content?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1195
+#: ../includes/vc_extend/vc-functions.php:1452
+msgid "If selected, will center content vertically"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1201
+#: ../includes/vc_extend/vc-functions.php:1459
+msgid "Match By Row?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1203
+#: ../includes/vc_extend/vc-functions.php:1461
+msgid "If selected, height will match by row"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1210
+msgid "Bordered Columns?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1212
+msgid "If selected, will add border between columns"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1220
+msgid "Color of borders"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1227
+#: ../includes/vc_extend/vc-functions.php:1434
+msgid "Remove Column Padding?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1229
+#: ../includes/vc_extend/vc-functions.php:1436
+msgid "If selected, will remove padding from inner columns."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1237
+#: ../includes/vc_extend/vc-functions.php:1562
+msgid "Bg Image"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1239
+#: ../includes/vc_extend/vc-functions.php:1253
+#: ../includes/vc_extend/vc-functions.php:1273
+#: ../includes/vc_extend/vc-functions.php:1286
+#: ../includes/vc_extend/vc-functions.php:1294
+#: ../includes/vc_extend/vc-functions.php:1497
+#: ../includes/vc_extend/vc-functions.php:1513
+#: ../includes/vc_extend/vc-functions.php:1528
+#: ../includes/vc_extend/vc-functions.php:1565
+#: ../includes/vc_extend/vc-functions.php:1576
+#: ../includes/vc_extend/vc-functions.php:1595
+#: ../includes/vc_extend/vc-functions.php:1618
+#: ../includes/vc_extend/vc-functions.php:1634
+#: ../includes/vc_extend/vc-functions.php:1643
+#: ../includes/vc_extend/vc-functions.php:1657
+#: ../includes/vc_extend/vc-functions.php:1666
+#: ../includes/vc_extend/vc-functions.php:1675
+#: ../includes/vc_extend/vc-functions.php:1685
+#: ../includes/vc_extend/vc-functions.php:1694
+#: ../includes/vc_extend/vc-functions.php:1704
+#: ../includes/vc_extend/vc-functions.php:1712
+#: ../includes/vc_extend/vc-functions.php:1721
+#: ../includes/vc_extend/vc-functions.php:1730
+#: ../includes/vc_extend/vc-functions.php:1738
+#: ../includes/vc_extend/vc-functions.php:1748
+#: ../includes/vc_extend/vc-functions.php:1757
+#: ../includes/vc_extend/vc-functions.php:1778
+#: ../includes/vc_extend/vc-functions.php:1788
+#: ../includes/vc_extend/vc-functions.php:1797
+#: ../includes/vc_extend/vc-functions.php:1807
+#: ../includes/vc_extend/vc-functions.php:1822
+#: ../includes/vc_extend/vc-functions.php:1831
+#: ../includes/vc_extend/vc-functions.php:1841
+#: ../includes/vc_extend/vc-functions.php:1849
+msgid "907 Options"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1243
+#: ../includes/vc_extend/vc-functions.php:1582
+msgid "Background Repeat"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1247
+#: ../includes/vc_extend/vc-functions.php:1586
+msgid "Cover"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1248
+#: ../includes/vc_extend/vc-functions.php:1587
+msgid "Contain"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1249
+#: ../includes/vc_extend/vc-functions.php:1588
+msgid "Repeat"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1250
+#: ../includes/vc_extend/vc-functions.php:1589
+msgid "No Repeat"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1252
+#: ../includes/vc_extend/vc-functions.php:1591
+msgid "Select how a background image will be repeated"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1258
+#: ../includes/vc_extend/vc-functions.php:1600
+msgid "Background Position"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1262
+#: ../includes/vc_extend/vc-functions.php:1604
+msgid "Left Top"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1263
+#: ../includes/vc_extend/vc-functions.php:1605
+msgid "Left Center"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1264
+#: ../includes/vc_extend/vc-functions.php:1606
+msgid "Left Bottom"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1265
+#: ../includes/vc_extend/vc-functions.php:1607
+msgid "Right Top"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1266
+#: ../includes/vc_extend/vc-functions.php:1608
+msgid "Right Center"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1267
+#: ../includes/vc_extend/vc-functions.php:1609
+msgid "Right Bottom"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1268
+#: ../includes/vc_extend/vc-functions.php:1610
+msgid "Center Top"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1269
+#: ../includes/vc_extend/vc-functions.php:1611
+msgid "Center Center"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1270
+#: ../includes/vc_extend/vc-functions.php:1612
+msgid "Center Bottom"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1272
+#: ../includes/vc_extend/vc-functions.php:1614
+msgid "Select how background image will be positioned."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1278
+#: ../includes/vc_extend/vc-functions.php:1623
+msgid "Background Attachment"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1282
+#: ../includes/vc_extend/vc-functions.php:1627
+msgid "Scroll"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1283
+#: ../includes/vc_extend/vc-functions.php:1628
+msgid "Fixed"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1285
+#: ../includes/vc_extend/vc-functions.php:1630
+msgid "Select how a background image will be attached"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1293
+#: ../includes/vc_extend/vc-functions.php:1848
+msgid "Backgroud color for row."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1300
+#: ../includes/vc_extend/vc-functions.php:1856
+#: ../includes/vc_extend/vc-functions.php:2985
+#: ../includes/vc_extend/vc-functions.php:3796
+#: ../includes/vc_extend/vc-functions.php:4007
+#: ../includes/vc_extend/vc-functions.php:4677
+#: ../includes/vc_extend/vc-functions.php:4906
+msgid "Padding Top"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1302
+#: ../includes/vc_extend/vc-functions.php:1858
+#: ../includes/vc_extend/vc-functions.php:2987
+#: ../includes/vc_extend/vc-functions.php:3798
+#: ../includes/vc_extend/vc-functions.php:4009
+#: ../includes/vc_extend/vc-functions.php:4679
+#: ../includes/vc_extend/vc-functions.php:4908
+msgid "Padding top, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1303
+#: ../includes/vc_extend/vc-functions.php:1310
+#: ../includes/vc_extend/vc-functions.php:1317
+#: ../includes/vc_extend/vc-functions.php:1325
+#: ../includes/vc_extend/vc-functions.php:1859
+#: ../includes/vc_extend/vc-functions.php:1866
+#: ../includes/vc_extend/vc-functions.php:1873
+#: ../includes/vc_extend/vc-functions.php:1881
+#: ../includes/vc_extend/vc-functions.php:2103
+#: ../includes/vc_extend/vc-functions.php:2506
+#: ../includes/vc_extend/vc-functions.php:2988
+#: ../includes/vc_extend/vc-functions.php:2995
+#: ../includes/vc_extend/vc-functions.php:3002
+#: ../includes/vc_extend/vc-functions.php:3009
+#: ../includes/vc_extend/vc-functions.php:3799
+#: ../includes/vc_extend/vc-functions.php:3806
+#: ../includes/vc_extend/vc-functions.php:3813
+#: ../includes/vc_extend/vc-functions.php:3820
+#: ../includes/vc_extend/vc-functions.php:4010
+#: ../includes/vc_extend/vc-functions.php:4017
+#: ../includes/vc_extend/vc-functions.php:4024
+#: ../includes/vc_extend/vc-functions.php:4031
+#: ../includes/vc_extend/vc-functions.php:4680
+#: ../includes/vc_extend/vc-functions.php:4687
+#: ../includes/vc_extend/vc-functions.php:4694
+#: ../includes/vc_extend/vc-functions.php:4701
+#: ../includes/vc_extend/vc-functions.php:4909
+#: ../includes/vc_extend/vc-functions.php:4916
+#: ../includes/vc_extend/vc-functions.php:4923
+#: ../includes/vc_extend/vc-functions.php:4930
+msgid "Padding"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1307
+#: ../includes/vc_extend/vc-functions.php:1863
+#: ../includes/vc_extend/vc-functions.php:2992
+#: ../includes/vc_extend/vc-functions.php:3803
+#: ../includes/vc_extend/vc-functions.php:4014
+#: ../includes/vc_extend/vc-functions.php:4684
+#: ../includes/vc_extend/vc-functions.php:4913
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1309
+#: ../includes/vc_extend/vc-functions.php:1865
+#: ../includes/vc_extend/vc-functions.php:2994
+#: ../includes/vc_extend/vc-functions.php:3805
+#: ../includes/vc_extend/vc-functions.php:4016
+#: ../includes/vc_extend/vc-functions.php:4686
+#: ../includes/vc_extend/vc-functions.php:4915
+msgid "Padding bottom, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1314
+#: ../includes/vc_extend/vc-functions.php:1870
+#: ../includes/vc_extend/vc-functions.php:2999
+#: ../includes/vc_extend/vc-functions.php:3810
+#: ../includes/vc_extend/vc-functions.php:4021
+#: ../includes/vc_extend/vc-functions.php:4691
+#: ../includes/vc_extend/vc-functions.php:4920
+msgid "Padding Left"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1316
+#: ../includes/vc_extend/vc-functions.php:1872
+msgid "Padding left, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1322
+#: ../includes/vc_extend/vc-functions.php:1878
+#: ../includes/vc_extend/vc-functions.php:3006
+#: ../includes/vc_extend/vc-functions.php:3817
+#: ../includes/vc_extend/vc-functions.php:4028
+#: ../includes/vc_extend/vc-functions.php:4698
+#: ../includes/vc_extend/vc-functions.php:4927
+msgid "Padding Right"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1324
+#: ../includes/vc_extend/vc-functions.php:1880
+msgid "Padding right, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1331
+#: ../includes/vc_extend/vc-functions.php:1887
+#: ../includes/vc_extend/vc-functions.php:2848
+#: ../includes/vc_extend/vc-functions.php:3014
+#: ../includes/vc_extend/vc-functions.php:3825
+#: ../includes/vc_extend/vc-functions.php:4036
+#: ../includes/vc_extend/vc-functions.php:4266
+#: ../includes/vc_extend/vc-functions.php:4706
+#: ../includes/vc_extend/vc-functions.php:4935
+#: ../includes/vc_extend/vc-functions.php:5005
+msgid "Margin Top"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1333
+#: ../includes/vc_extend/vc-functions.php:1889
+#: ../includes/vc_extend/vc-functions.php:2850
+#: ../includes/vc_extend/vc-functions.php:3016
+#: ../includes/vc_extend/vc-functions.php:3827
+#: ../includes/vc_extend/vc-functions.php:4038
+#: ../includes/vc_extend/vc-functions.php:4268
+#: ../includes/vc_extend/vc-functions.php:4708
+#: ../includes/vc_extend/vc-functions.php:4937
+#: ../includes/vc_extend/vc-functions.php:5007
+msgid "Margin top, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1334
+#: ../includes/vc_extend/vc-functions.php:1341
+#: ../includes/vc_extend/vc-functions.php:1348
+#: ../includes/vc_extend/vc-functions.php:1356
+#: ../includes/vc_extend/vc-functions.php:1890
+#: ../includes/vc_extend/vc-functions.php:1897
+#: ../includes/vc_extend/vc-functions.php:1904
+#: ../includes/vc_extend/vc-functions.php:1912
+#: ../includes/vc_extend/vc-functions.php:2851
+#: ../includes/vc_extend/vc-functions.php:2858
+#: ../includes/vc_extend/vc-functions.php:2865
+#: ../includes/vc_extend/vc-functions.php:2872
+#: ../includes/vc_extend/vc-functions.php:3017
+#: ../includes/vc_extend/vc-functions.php:3024
+#: ../includes/vc_extend/vc-functions.php:3031
+#: ../includes/vc_extend/vc-functions.php:3038
+#: ../includes/vc_extend/vc-functions.php:3828
+#: ../includes/vc_extend/vc-functions.php:3835
+#: ../includes/vc_extend/vc-functions.php:3842
+#: ../includes/vc_extend/vc-functions.php:3849
+#: ../includes/vc_extend/vc-functions.php:4039
+#: ../includes/vc_extend/vc-functions.php:4046
+#: ../includes/vc_extend/vc-functions.php:4053
+#: ../includes/vc_extend/vc-functions.php:4060
+#: ../includes/vc_extend/vc-functions.php:4269
+#: ../includes/vc_extend/vc-functions.php:4276
+#: ../includes/vc_extend/vc-functions.php:4709
+#: ../includes/vc_extend/vc-functions.php:4716
+#: ../includes/vc_extend/vc-functions.php:4723
+#: ../includes/vc_extend/vc-functions.php:4730
+#: ../includes/vc_extend/vc-functions.php:4938
+#: ../includes/vc_extend/vc-functions.php:4945
+#: ../includes/vc_extend/vc-functions.php:4952
+#: ../includes/vc_extend/vc-functions.php:4959
+#: ../includes/vc_extend/vc-functions.php:5008
+#: ../includes/vc_extend/vc-functions.php:5015
+#: ../includes/vc_extend/vc-functions.php:5022
+#: ../includes/vc_extend/vc-functions.php:5029
+msgid "Margin"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1338
+#: ../includes/vc_extend/vc-functions.php:1894
+#: ../includes/vc_extend/vc-functions.php:2855
+#: ../includes/vc_extend/vc-functions.php:3021
+#: ../includes/vc_extend/vc-functions.php:3832
+#: ../includes/vc_extend/vc-functions.php:4043
+#: ../includes/vc_extend/vc-functions.php:4273
+#: ../includes/vc_extend/vc-functions.php:4713
+#: ../includes/vc_extend/vc-functions.php:4942
+#: ../includes/vc_extend/vc-functions.php:5012
+#: ../includes/vc_extend/vc-functions.php:5168
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1340
+#: ../includes/vc_extend/vc-functions.php:1896
+#: ../includes/vc_extend/vc-functions.php:2857
+#: ../includes/vc_extend/vc-functions.php:3023
+#: ../includes/vc_extend/vc-functions.php:3834
+#: ../includes/vc_extend/vc-functions.php:4045
+#: ../includes/vc_extend/vc-functions.php:4275
+#: ../includes/vc_extend/vc-functions.php:4715
+#: ../includes/vc_extend/vc-functions.php:4944
+#: ../includes/vc_extend/vc-functions.php:5014
+msgid "Margin bottom, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1345
+#: ../includes/vc_extend/vc-functions.php:1901
+#: ../includes/vc_extend/vc-functions.php:2862
+#: ../includes/vc_extend/vc-functions.php:3028
+#: ../includes/vc_extend/vc-functions.php:3839
+#: ../includes/vc_extend/vc-functions.php:4050
+#: ../includes/vc_extend/vc-functions.php:4720
+#: ../includes/vc_extend/vc-functions.php:4949
+#: ../includes/vc_extend/vc-functions.php:5019
+msgid "Margin Left"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1347
+#: ../includes/vc_extend/vc-functions.php:1903
+msgid "Margin left, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1353
+#: ../includes/vc_extend/vc-functions.php:1909
+#: ../includes/vc_extend/vc-functions.php:2869
+#: ../includes/vc_extend/vc-functions.php:3035
+#: ../includes/vc_extend/vc-functions.php:3846
+#: ../includes/vc_extend/vc-functions.php:4057
+#: ../includes/vc_extend/vc-functions.php:4727
+#: ../includes/vc_extend/vc-functions.php:4956
+#: ../includes/vc_extend/vc-functions.php:5026
+msgid "Margin Right"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1355
+#: ../includes/vc_extend/vc-functions.php:1911
+msgid "Margin right, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1364
+#: ../includes/vc_extend/vc-functions.php:1368
+#: ../includes/vc_extend/vc-functions.php:1377
+#: ../includes/vc_extend/vc-functions.php:1386
+#: ../includes/vc_extend/vc-functions.php:1395
+#: ../includes/vc_extend/vc-functions.php:1404
+#: ../includes/vc_extend/vc-functions.php:3854
+#: ../includes/vc_extend/vc-functions.php:3858
+#: ../includes/vc_extend/vc-functions.php:3866
+#: ../includes/vc_extend/vc-functions.php:3874
+#: ../includes/vc_extend/vc-functions.php:3882
+#: ../includes/vc_extend/vc-functions.php:3890
+#: ../includes/vc_extend/vc-functions.php:4133
+#: ../includes/vc_extend/vc-functions.php:4137
+#: ../includes/vc_extend/vc-functions.php:4145
+#: ../includes/vc_extend/vc-functions.php:4153
+#: ../includes/vc_extend/vc-functions.php:4161
+#: ../includes/vc_extend/vc-functions.php:4169
+#: ../includes/vc_extend/vc-functions.php:4735
+#: ../includes/vc_extend/vc-functions.php:4739
+#: ../includes/vc_extend/vc-functions.php:4747
+#: ../includes/vc_extend/vc-functions.php:4755
+#: ../includes/vc_extend/vc-functions.php:4763
+#: ../includes/vc_extend/vc-functions.php:4771
+msgid "Animation"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1365
+#: ../includes/vc_extend/vc-functions.php:3855
+#: ../includes/vc_extend/vc-functions.php:4134
+#: ../includes/vc_extend/vc-functions.php:4736
+msgid "Animates section/object"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1373
+#: ../includes/vc_extend/vc-functions.php:3862
+#: ../includes/vc_extend/vc-functions.php:4141
+#: ../includes/vc_extend/vc-functions.php:4743
+msgid "Animation Duration"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1375
+#: ../includes/vc_extend/vc-functions.php:3864
+#: ../includes/vc_extend/vc-functions.php:4143
+#: ../includes/vc_extend/vc-functions.php:4745
+msgid "Change the animation duration ie 4s"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1382
+#: ../includes/vc_extend/vc-functions.php:3870
+#: ../includes/vc_extend/vc-functions.php:4149
+#: ../includes/vc_extend/vc-functions.php:4751
+msgid "Animation Delay"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1384
+#: ../includes/vc_extend/vc-functions.php:3872
+#: ../includes/vc_extend/vc-functions.php:4151
+#: ../includes/vc_extend/vc-functions.php:4753
+msgid "Delay before the animation starts ie 4s"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1391
+#: ../includes/vc_extend/vc-functions.php:3878
+#: ../includes/vc_extend/vc-functions.php:4157
+#: ../includes/vc_extend/vc-functions.php:4759
+msgid "Animation offset"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1393
+#: ../includes/vc_extend/vc-functions.php:3880
+#: ../includes/vc_extend/vc-functions.php:4159
+#: ../includes/vc_extend/vc-functions.php:4761
+msgid "Distance to start the animation (related to the browser bottom) ie 10"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1400
+#: ../includes/vc_extend/vc-functions.php:3886
+#: ../includes/vc_extend/vc-functions.php:4165
+#: ../includes/vc_extend/vc-functions.php:4767
+msgid "Animation Iteration"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1402
+#: ../includes/vc_extend/vc-functions.php:3888
+#: ../includes/vc_extend/vc-functions.php:4167
+#: ../includes/vc_extend/vc-functions.php:4769
+msgid "Number of times the animation is repeated ie 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1426
+msgid "Full Height?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1428
+msgid "If selected, this will set min-height to browser height."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1470
+#: ../includes/vc_extend/vc-functions.php:1543
+#: ../includes/vc_extend/vc-functions.php:4578
+msgid "Align Content"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1471
+msgid "Aligns the inner content within the full height section."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1489
+msgid "Row Type"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1490
+msgid ""
+"Choose standard or full width, full width should be used with page template "
+"full width 100%."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1504
+msgid "Inner Content"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1505
+msgid "Do you want the inner content in container or full width?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1519
+msgid "Background Type"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1537
+#: ../includes/vc_extend/vc-functions.php:1639
+#: ../includes/vc_extend/vc-functions.php:1793
+#: ../includes/vc_extend/vc-functions.php:2183
+#: ../includes/vc_extend/vc-functions.php:2298
+#: ../includes/vc_extend/vc-functions.php:2529
+msgid "Overlay Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1544
+msgid "You can choose to align text within the row here,"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1570
+msgid "Parallax Speed"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1574
+msgid "Set parallax speed, set to 0 for no parallax effect."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1641
+#: ../includes/vc_extend/vc-functions.php:1795
+msgid "You can set an overlay color/opacity."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1653
+msgid "MP4 video URL"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1655
+msgid "Enter the URL to your MP4 file here."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1662
+msgid "WebM Video URL"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1664
+msgid "Enter the URL to your WebM file here."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1671
+msgid "OGV Video URL"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1673
+msgid "Enter the URL to your OGV file here."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1681
+msgid "Youtube ID"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1683
+msgid "Enter Youtube URL here ie http://www.youtube.com/watch?v=qelHgzRFC0k"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1689
+msgid "Mute?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1691
+msgid ""
+"Best to have videos muted, as some browser like Safari, Iphone and soon "
+"Chrome don't support autoplay while unmuted."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1699
+msgid "Lazy Load?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1701
+msgid ""
+"This will delay the loading of the video till scrolled down close to the "
+"video area."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1708
+msgid "Load Position Delay"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1710
+msgid "Distance from video area to begin loading it, default 500"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1716
+msgid "Play When InView?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1718
+msgid "Will play the video when inview, pause when not inview."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1726
+msgid "Start Playing Position"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1728
+msgid ""
+"Amount of video shown before starting to play. Must enter percentage value "
+"ie 50%, will start play when 50% is visible, if used without percentage sign "
+"video will start that amount before the video is shown. "
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1734
+msgid "Stop Playing Position"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1736
+msgid ""
+"Distance scrolled out of view to stop playing video. Enter percentage value, "
+"40% would pause video once 3/4 is out of view when scrolling down. Leave "
+"blank and video will pause once completly out for view"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1743
+msgid "Play On Mobile?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1745
+msgid ""
+"Enable this will attempt to play the video backgrounds on mobile devices if "
+"supported. Consider user data when enabling this option."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1753
+#: ../includes/vc_extend/vc-functions.php:1837
+msgid "Band Height"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1755
+#: ../includes/vc_extend/vc-functions.php:1839
+msgid "Enter height you' like the band, must be number only ie 100"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1762
+msgid "Video Quality"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1769
+msgid "HD720"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1770
+msgid "HD1080"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1771
+msgid "High Res"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1773
+msgid ""
+"This will attempt to load as suggested quality. Keep in mind it will affect "
+"loading time using higher res videos."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1784
+msgid "Cover Image"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1785
+msgid ""
+"This image will be shown before video starts and on not supported(mobile) "
+"devices."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1805
+msgid "Adds a border color to the bottom of section"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1813
+msgid "Style"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1817
+msgid "Arrow Down Bottom"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1818
+msgid "Band Bottom"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1820
+msgid "Just some extra styling options ;)"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1827
+msgid "Band Background Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1919
+msgid "Handle Font Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1924
+msgid "Handle Background Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1932
+#: ../includes/vc_extend/vc-functions.php:3948
+#: ../includes/vc_extend/vc-functions.php:4252
+#: ../includes/vc_extend/vc-functions.php:4420
+#: ../includes/vc_extend/vc-functions.php:4822
+#: ../includes/vc_extend/vc-functions.php:5162
+msgid "Font Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1934
+#: ../includes/vc_extend/vc-functions.php:4605
+#: ../includes/vc_extend/vc-functions.php:4631
+#: ../includes/vc_extend/vc-functions.php:4824
+#: ../includes/vc_extend/vc-functions.php:4831
+#: ../includes/vc_extend/vc-functions.php:4838
+#: ../includes/vc_extend/vc-functions.php:4859
+#: ../includes/vc_extend/vc-functions.php:4873
+#: ../includes/vc_extend/vc-functions.php:4987
+#: ../includes/vc_extend/vc-functions.php:4993
+msgid "Can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1949
+#: ../includes/vc_extend/vc-functions.php:2227
+#: ../includes/vc_extend/vc-functions.php:2350
+#: ../includes/vc_extend/vc-functions.php:2579
+#: ../includes/vc_extend/vc-functions.php:2886
+#: ../includes/vc_extend/vc-functions.php:3220
+#: ../includes/vc_extend/vc-functions.php:3309
+#: ../includes/vc_extend/vc-functions.php:3388
+#: ../includes/vc_extend/vc-functions.php:3905
+#: ../includes/vc_extend/vc-functions.php:4185
+#: ../includes/vc_extend/vc-functions.php:4290
+#: ../includes/vc_extend/vc-functions.php:4389
+#: ../includes/vc_extend/vc-functions.php:4466
+#: ../includes/vc_extend/vc-functions.php:4549
+#: ../includes/vc_extend/vc-functions.php:4574
+#: ../includes/vc_extend/vc-functions.php:4792
+#: ../includes/vc_extend/vc-functions.php:4981
+#: ../includes/vc_extend/vc-functions.php:5043
+#: ../includes/vc_extend/vc-functions.php:5099
+msgid "907 Additions"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1950
+msgid "Displays portfolio Grid"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1954
+msgid "Gallery Type"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1959
+#: ../includes/vc_extend/vc-functions.php:2362
+msgid "Masonry"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1960
+msgid "Fit Rows"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1961
+msgid "Brick Wall"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1963
+msgid "Select type of portfolio layout you'd like displayed."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1970
+msgid "You can select image sizing here."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1974
+#: ../includes/vc_extend/vc-functions.php:2368
+msgid "Amount of post to show."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1977
+msgid "Leave blank to show all or enter how many you want displayed."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1982
+#: ../includes/vc_extend/vc-functions.php:2240
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1986
+#: ../includes/vc_extend/vc-functions.php:2244
+#: ../includes/vc_extend/vc-functions.php:2380
+msgid ""
+"You can choose to show only the categories you want by checking the boxes."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1990
+#: ../includes/vc_extend/vc-functions.php:2256
+#: ../includes/vc_extend/vc-functions.php:2392
+msgid "Exclude Posts"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:1993
+#: ../includes/vc_extend/vc-functions.php:2259
+#: ../includes/vc_extend/vc-functions.php:2395
+msgid ""
+"You can add post ids here to exclude. Seperate with comma's, ie. 23,54,46"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2002
+#: ../includes/vc_extend/vc-functions.php:2276
+#: ../includes/vc_extend/vc-functions.php:2411
+#: ../includes/vc_extend/vc-functions.php:4613
+msgid "None"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2006
+#: ../includes/vc_extend/vc-functions.php:2280
+#: ../includes/vc_extend/vc-functions.php:2415
+msgid "Date"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2009
+#: ../includes/vc_extend/vc-functions.php:2418
+msgid ""
+"Please note that if you select \"Random\", the pagination option won't work"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2013
+#: ../includes/vc_extend/vc-functions.php:2287
+#: ../includes/vc_extend/vc-functions.php:2422
+msgid "Ordering"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2017
+#: ../includes/vc_extend/vc-functions.php:2291
+#: ../includes/vc_extend/vc-functions.php:2426
+msgid "Ascending"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2018
+#: ../includes/vc_extend/vc-functions.php:2292
+#: ../includes/vc_extend/vc-functions.php:2427
+msgid "Descending"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2020
+#: ../includes/vc_extend/vc-functions.php:2294
+#: ../includes/vc_extend/vc-functions.php:2429
+msgid ""
+"This controls rather to order from post in up or down value based on the "
+"\"Order By\" option above."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2024
+msgid "Hide Post Title?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2032
+#: ../includes/vc_extend/vc-functions.php:2433
+msgid "Hide PopUp Link Icon?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2040
+#: ../includes/vc_extend/vc-functions.php:2441
+msgid "Hide Page Link Icon?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2048
+#: ../includes/vc_extend/vc-functions.php:2449
+msgid "UnLink Overlay?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2050
+#: ../includes/vc_extend/vc-functions.php:2451
+msgid "Makes overlay become not clickable to single post page."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2086
+msgid "Grid Gap"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2090
+msgid "Gap 0"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2091
+msgid "Gap 1"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2092
+msgid "Gap 5"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2093
+msgid "Gap 10"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2094
+msgid "Gap 15"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2095
+msgid "Gap 20"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2096
+msgid "Custom Gap"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2099
+msgid "Spacing between items"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2105
+msgid ""
+"Amount of padding between each item, only enter number without px. ie 10."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2110
+msgid "Show Filter?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2112
+msgid "Shows the filter buttons for filtering the gallery."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2117
+msgid "Filter Align"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2125
+msgid "Align filter buttons."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2129
+msgid "\"All\" Word"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2131
+msgid "The text for the \"All\" button, leave blank to use default"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2136
+msgid "Show Text?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2138
+msgid "This option will show a text excerpt below the image."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2143
+#: ../includes/vc_extend/vc-functions.php:2520
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2146
+#: ../includes/vc_extend/vc-functions.php:2523
+msgid "Amount of excerpt text to show, only enter number value ie 60"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2152
+#: ../includes/vc_extend/vc-functions.php:3979
+#: ../includes/vc_extend/vc-functions.php:4258
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2154
+msgid "Color of excerpt text."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2160
+msgid "Text Box BG color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2162
+msgid "The color of the background box behind the text."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2168
+msgid "MouseOver Play Videos?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2170
+msgid "Play any videos on mouseover?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2175
+msgid "Mute Videos?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2177
+msgid "Will mute the videos."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2185
+#: ../includes/vc_extend/vc-functions.php:2300
+#: ../includes/vc_extend/vc-functions.php:2531
+msgid ""
+"This is for image hover overlay color, leave blank to use theme default "
+"color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2191
+#: ../includes/vc_extend/vc-functions.php:2537
+msgid "Over 1200"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2193
+msgid ""
+"Columns to display in area over 1200 in width, enter only a number i.e 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2194
+#: ../includes/vc_extend/vc-functions.php:2201
+#: ../includes/vc_extend/vc-functions.php:2208
+#: ../includes/vc_extend/vc-functions.php:2215
+#: ../includes/vc_extend/vc-functions.php:2540
+#: ../includes/vc_extend/vc-functions.php:2547
+#: ../includes/vc_extend/vc-functions.php:2554
+#: ../includes/vc_extend/vc-functions.php:2561
+msgid "Column Settings"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2198
+#: ../includes/vc_extend/vc-functions.php:2544
+msgid "Over 800"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2200
+msgid "Columns to display in area over 800 in width, enter only a number i.e 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2205
+#: ../includes/vc_extend/vc-functions.php:2551
+msgid "Over 600"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2207
+msgid "Columns to display in area over 600 in width, enter only a number i.e 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2212
+#: ../includes/vc_extend/vc-functions.php:2558
+msgid "Over 400"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2214
+msgid "Columns to display in area over 400 in width, enter only a number i.e 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2228
+msgid "Display portfolio carousel"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2232
+msgid "Amount of post to show"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2235
+msgid "Leave blank to get all portfolio items."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2248
+#: ../includes/vc_extend/vc-functions.php:2384
+msgid "Include Posts"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2251
+msgid ""
+"You can add post ids here, so select only those post. Seperate with comma's, "
+"ie. 23,54,46"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2268
+#: ../includes/vc_extend/vc-functions.php:4498
+msgid "Just some extra element options ;)"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2283
+msgid "Option for display order"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2305
+msgid "Link Overlay?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2307
+msgid "This will make the whole overlay a link to post."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2313
+#: ../includes/vc_extend/vc-functions.php:3228
+msgid "Item Width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2315
+msgid "Enter the item max width you'd like, ie 400"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2316
+#: ../includes/vc_extend/vc-functions.php:2323
+#: ../includes/vc_extend/vc-functions.php:2330
+#: ../includes/vc_extend/vc-functions.php:2337
+msgid "Settings"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2320
+#: ../includes/vc_extend/vc-functions.php:3234
+msgid "Scroll Amount"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2322
+msgid ""
+"This controls how many items are scrolled into view. Enter number only ie 3"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2327
+msgid "Min Amount"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2329
+msgid "Enter min amount of images you want shown, default is 1."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2334
+msgid "Max Amount"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2336
+msgid "Enter max amount of images you want shown."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2351
+msgid "Displays blog posts"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2355
+msgid "Layout"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2360
+msgid "Big Image"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2361
+msgid "Small Image"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2364
+msgid "Select type of layout you'd like"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2371
+msgid "Leave blank to show all or enter how many you want display."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2376
+msgid "Blog Categories"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2387
+msgid ""
+"You can add post ids here, so that only those post are selected. Seperate "
+"with comma's, ie. 23,54,46"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2403
+msgid "Image sizing options"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2460
+msgid "Select this if you'd like to have pagination."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2466
+msgid "Align Page Nav"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2474
+msgid "Aligns the page navigation buttons"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2487
+msgid "Button Type"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2491
+msgid "Numbers"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2492
+msgid "Load More"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2494
+msgid "Type of pagination buttons"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2499
+msgid "Load More Text"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2501
+msgid "Option to change the \"Load More\" text, leave blank for default text."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2508
+msgid ""
+"Amount of padding between each item, only enter number without px. ie 10"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2539
+msgid ""
+"Columns to display in area over 1200 in width when using \"Masonry\" layout "
+"option., enter only a number i.e 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2546
+msgid ""
+"Columns to display in area over 800 in width when using \"Masonry\" layout "
+"option., enter only a number i.e 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2553
+msgid ""
+"Columns to display in area over 600 in width when using \"Masonry\" layout "
+"option., enter only a number i.e 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2560
+msgid ""
+"Columns to display in area over 400 in width when using \"Masonry\" layout "
+"option., enter only a number i.e 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2580
+msgid "For Displaying Icons"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2586
+#: ../includes/vc_extend/vc-functions.php:3056
+#: ../includes/vc_extend/vc-functions.php:3431
+msgid "Icon Packs"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2588
+#: ../includes/vc_extend/vc-functions.php:3058
+#: ../includes/vc_extend/vc-functions.php:3433
+msgid "Font Awesome"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2589
+#: ../includes/vc_extend/vc-functions.php:3059
+#: ../includes/vc_extend/vc-functions.php:3434
+msgid "Open Iconic"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2590
+#: ../includes/vc_extend/vc-functions.php:3060
+#: ../includes/vc_extend/vc-functions.php:3435
+msgid "Typicons"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2591
+#: ../includes/vc_extend/vc-functions.php:3061
+#: ../includes/vc_extend/vc-functions.php:3436
+msgid "Entypo"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2592
+#: ../includes/vc_extend/vc-functions.php:3062
+#: ../includes/vc_extend/vc-functions.php:3437
+msgid "Linecons"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2593
+#: ../includes/vc_extend/vc-functions.php:3063
+#: ../includes/vc_extend/vc-functions.php:3438
+msgid "ET Line"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2594
+#: ../includes/vc_extend/vc-functions.php:3064
+#: ../includes/vc_extend/vc-functions.php:3439
+msgid "Flaticons"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2597
+#: ../includes/vc_extend/vc-functions.php:3067
+#: ../includes/vc_extend/vc-functions.php:3442
+msgid "Select icon library."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2614
+#: ../includes/vc_extend/vc-functions.php:2631
+#: ../includes/vc_extend/vc-functions.php:2648
+#: ../includes/vc_extend/vc-functions.php:2681
+#: ../includes/vc_extend/vc-functions.php:2698
+#: ../includes/vc_extend/vc-functions.php:2715
+#: ../includes/vc_extend/vc-functions.php:3084
+#: ../includes/vc_extend/vc-functions.php:3101
+#: ../includes/vc_extend/vc-functions.php:3118
+#: ../includes/vc_extend/vc-functions.php:3151
+#: ../includes/vc_extend/vc-functions.php:3168
+#: ../includes/vc_extend/vc-functions.php:3185
+#: ../includes/vc_extend/vc-functions.php:3463
+#: ../includes/vc_extend/vc-functions.php:3480
+#: ../includes/vc_extend/vc-functions.php:3497
+#: ../includes/vc_extend/vc-functions.php:3530
+#: ../includes/vc_extend/vc-functions.php:3547
+#: ../includes/vc_extend/vc-functions.php:3564
+msgid "Select icon from library."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2720
+#: ../includes/vc_extend/vc-functions.php:2913
+#: ../includes/vc_extend/vc-functions.php:3569
+msgid "Icon Type"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2724
+#: ../includes/vc_extend/vc-functions.php:2917
+#: ../includes/vc_extend/vc-functions.php:3573
+#: ../includes/vc_extend/vc-functions.php:3938
+#: ../includes/vc_extend/vc-functions.php:4242
+#: ../includes/vc_extend/vc-functions.php:4410
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2725
+#: ../includes/vc_extend/vc-functions.php:2918
+#: ../includes/vc_extend/vc-functions.php:3574
+#: ../includes/vc_extend/vc-functions.php:3939
+#: ../includes/vc_extend/vc-functions.php:4243
+#: ../includes/vc_extend/vc-functions.php:4411
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2726
+#: ../includes/vc_extend/vc-functions.php:2919
+#: ../includes/vc_extend/vc-functions.php:3575
+#: ../includes/vc_extend/vc-functions.php:3940
+#: ../includes/vc_extend/vc-functions.php:4244
+#: ../includes/vc_extend/vc-functions.php:4412
+msgid "Style 3"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2727
+#: ../includes/vc_extend/vc-functions.php:2920
+#: ../includes/vc_extend/vc-functions.php:3576
+#: ../includes/vc_extend/vc-functions.php:3941
+#: ../includes/vc_extend/vc-functions.php:4245
+#: ../includes/vc_extend/vc-functions.php:4413
+msgid "Style 4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2729
+#: ../includes/vc_extend/vc-functions.php:2922
+#: ../includes/vc_extend/vc-functions.php:3578
+msgid "Some preset styles"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2733
+#: ../includes/vc_extend/vc-functions.php:2891
+#: ../includes/vc_extend/vc-functions.php:3609
+msgid "Icon Style"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2737
+#: ../includes/vc_extend/vc-functions.php:2895
+#: ../includes/vc_extend/vc-functions.php:3613
+msgid "Icon Circle"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2738
+#: ../includes/vc_extend/vc-functions.php:2896
+#: ../includes/vc_extend/vc-functions.php:3614
+msgid "Icon Square"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2740
+#: ../includes/vc_extend/vc-functions.php:2751
+msgid "Some options for the styling of the icon background."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2744
+#: ../includes/vc_extend/vc-functions.php:2902
+#: ../includes/vc_extend/vc-functions.php:3621
+msgid "Icon Extra"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2748
+#: ../includes/vc_extend/vc-functions.php:2906
+#: ../includes/vc_extend/vc-functions.php:3625
+msgid "Icon Outline"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2749
+#: ../includes/vc_extend/vc-functions.php:2907
+#: ../includes/vc_extend/vc-functions.php:3626
+msgid "Icon Border"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2755
+#: ../includes/vc_extend/vc-functions.php:3280
+#: ../includes/vc_extend/vc-functions.php:3598
+#: ../includes/vc_extend/vc-functions.php:4502
+#: ../includes/vc_extend/vc-functions.php:4804
+msgid "Link"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2757
+#: ../includes/vc_extend/vc-functions.php:3600
+#: ../includes/vc_extend/vc-functions.php:4806
+msgid "If you'd like the icon linked"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2761
+msgid "Font Icon Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2763
+msgid "This sets the size of the icon."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2767
+#: ../includes/vc_extend/vc-functions.php:2943
+#: ../includes/vc_extend/vc-functions.php:3648
+msgid "Icon Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2769
+#: ../includes/vc_extend/vc-functions.php:2776
+#: ../includes/vc_extend/vc-functions.php:3658
+msgid "Color for the icon."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2774
+#: ../includes/vc_extend/vc-functions.php:3656
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2781
+#: ../includes/vc_extend/vc-functions.php:2950
+#: ../includes/vc_extend/vc-functions.php:3664
+msgid "Icon background"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2783
+#: ../includes/vc_extend/vc-functions.php:2790
+msgid "Background color for the icon."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2788
+msgid "Icon Hover background"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2795
+#: ../includes/vc_extend/vc-functions.php:2957
+#: ../includes/vc_extend/vc-functions.php:3680
+msgid "Icon Border Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2797
+#: ../includes/vc_extend/vc-functions.php:2804
+#: ../includes/vc_extend/vc-functions.php:3690
+msgid "Border color when using bordered options."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2802
+#: ../includes/vc_extend/vc-functions.php:3688
+msgid "Icon Border Hover Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2809
+#: ../includes/vc_extend/vc-functions.php:2971
+#: ../includes/vc_extend/vc-functions.php:3696
+msgid "Icon Border Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2811
+msgid "Width you'd like the border when using border style"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2815
+#: ../includes/vc_extend/vc-functions.php:2977
+#: ../includes/vc_extend/vc-functions.php:3703
+msgid "Icon Border Radius"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2817
+msgid "Controls the background raduis."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2821
+#: ../includes/vc_extend/vc-functions.php:3710
+msgid "Outline Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2823
+#: ../includes/vc_extend/vc-functions.php:2830
+#: ../includes/vc_extend/vc-functions.php:3712
+#: ../includes/vc_extend/vc-functions.php:3720
+msgid "Color of outline when using outline option"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2828
+#: ../includes/vc_extend/vc-functions.php:3718
+msgid "Outline Hover Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2835
+#: ../includes/vc_extend/vc-functions.php:3726
+msgid "Outline Width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2837
+#: ../includes/vc_extend/vc-functions.php:3728
+msgid "Width of outline"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2841
+#: ../includes/vc_extend/vc-functions.php:3733
+msgid "Outline Spacing"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2843
+msgid "Spacing between inner icon bg and outline."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2864
+#: ../includes/vc_extend/vc-functions.php:3030
+#: ../includes/vc_extend/vc-functions.php:3841
+#: ../includes/vc_extend/vc-functions.php:4052
+#: ../includes/vc_extend/vc-functions.php:4722
+#: ../includes/vc_extend/vc-functions.php:4951
+#: ../includes/vc_extend/vc-functions.php:5021
+msgid "Margin Left, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2871
+#: ../includes/vc_extend/vc-functions.php:3037
+#: ../includes/vc_extend/vc-functions.php:3848
+#: ../includes/vc_extend/vc-functions.php:4059
+#: ../includes/vc_extend/vc-functions.php:4729
+#: ../includes/vc_extend/vc-functions.php:4958
+#: ../includes/vc_extend/vc-functions.php:5028
+msgid "Margin Right, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2879
+msgid "Icon/Info List"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2882
+msgid "Adds a list of icons with info option."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2898
+msgid "Sets the icon style for all list items to be added."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2909
+msgid "Addtional styling options for list items to be added."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2926
+msgid "Align List"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2933
+msgid "Aligns list items."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2937
+msgid "Font/Icon Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2939
+msgid "Size option for icons."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2945
+#: ../includes/vc_extend/vc-functions.php:3650
+msgid "This sets the font icon color, leave blank to use theme default color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2952
+#: ../includes/vc_extend/vc-functions.php:3666
+#: ../includes/vc_extend/vc-functions.php:3674
+msgid ""
+"This sets the background color for the icon, leave blank to use theme "
+"default color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2959
+#: ../includes/vc_extend/vc-functions.php:3682
+msgid "Border color for icon, leave blank to use theme default color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2964
+#: ../includes/vc_extend/vc-functions.php:3787
+msgid "Inner Content Font Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2966
+msgid "This can be overridden in editor when adding list items"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2973
+#: ../includes/vc_extend/vc-functions.php:3698
+msgid "If using border style, you can set border width here."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:2979
+#: ../includes/vc_extend/vc-functions.php:3705
+msgid "Sets the radius of the icon for round option."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3001
+#: ../includes/vc_extend/vc-functions.php:3812
+#: ../includes/vc_extend/vc-functions.php:4023
+#: ../includes/vc_extend/vc-functions.php:4693
+#: ../includes/vc_extend/vc-functions.php:4922
+msgid "Padding Left, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3008
+#: ../includes/vc_extend/vc-functions.php:3819
+#: ../includes/vc_extend/vc-functions.php:4030
+#: ../includes/vc_extend/vc-functions.php:4700
+#: ../includes/vc_extend/vc-functions.php:4929
+msgid "Padding Right, can use px,em,% if not defined will default to px."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3045
+msgid "List Item"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3047
+msgid "Items for list box."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3191
+#: ../includes/vc_extend/vc-functions.php:3742
+msgid "Content"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3193
+#: ../includes/vc_extend/vc-functions.php:3744
+#: ../includes/vc_extend/vc-functions.php:4512
+msgid ""
+"I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3213
+msgid "Client Logo Carousel"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3216
+msgid "Adds your client logos in carousel"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3230
+msgid "Sets the widths for logo area."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3236
+msgid "How many to scroll at once"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3240
+msgid "Item Min Shown"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3242
+msgid "Set Min amout of items to show"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3246
+msgid "Item Max Shown"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3248
+msgid "Set Max amout of items to show"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3256
+msgid "Client Logo"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3258
+msgid "Clients Logos"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3268
+msgid "Only for your reference when using page builder"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3273
+#: ../includes/vc_extend/vc-functions.php:3359
+#: ../includes/vc_extend/vc-functions.php:3413
+msgid "Image"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3275
+#: ../includes/vc_extend/vc-functions.php:3361
+#: ../includes/vc_extend/vc-functions.php:3422
+#: ../includes/vc_extend/vc-functions.php:4489
+msgid "Attach image to be displayed"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3282
+msgid "If you'd like the logo linked"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3302
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3305
+msgid "Adds testimonials carousel"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3314
+msgid "Make Same Height?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3316
+msgid "Enable this will make all items same height"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3321
+msgid "Speed"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3323
+msgid "Changes the speed/duration between entires. Use numbers only i.e 8000"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3330
+#: ../includes/vc_extend/vc-functions.php:3332
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3342
+msgid "Displays Name"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3347
+msgid "Testimonial Message"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3349
+msgid ""
+"Add testimonial here, you can use | around words to turn into theme color ie "
+"\"This is |GREAT| feature\" and \"Great\" will be turned into theme primary "
+"color. Or use color option below."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3353
+#: ../includes/vc_extend/vc-functions.php:4399
+msgid "Credit"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3355
+msgid "Shows below name."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3382
+msgid "Icon Box"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3387
+msgid "Add icon area, great for services"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3394
+#: ../includes/vc_extend/vc-functions.php:3899
+msgid "Heading"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3403
+msgid "Subtitle"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3410
+msgid "Display Type"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3416
+msgid "Select Icon or Image"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3420
+msgid "Icon Image"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3586
+msgid "Info Box Style"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3589
+msgid "Icon Left"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3590
+msgid "Icon Right"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3591
+msgid "Icon Center"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3592
+msgid "Wrap Left"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3593
+msgid "Wrap Right"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3595
+msgid "This option aligns the content."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3616
+msgid "Just some styling options for icon background"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3617
+#: ../includes/vc_extend/vc-functions.php:3629
+#: ../includes/vc_extend/vc-functions.php:3637
+#: ../includes/vc_extend/vc-functions.php:3644
+#: ../includes/vc_extend/vc-functions.php:3651
+#: ../includes/vc_extend/vc-functions.php:3659
+#: ../includes/vc_extend/vc-functions.php:3667
+#: ../includes/vc_extend/vc-functions.php:3675
+#: ../includes/vc_extend/vc-functions.php:3683
+#: ../includes/vc_extend/vc-functions.php:3691
+#: ../includes/vc_extend/vc-functions.php:3699
+#: ../includes/vc_extend/vc-functions.php:3706
+#: ../includes/vc_extend/vc-functions.php:3713
+#: ../includes/vc_extend/vc-functions.php:3721
+#: ../includes/vc_extend/vc-functions.php:3729
+#: ../includes/vc_extend/vc-functions.php:3735
+msgid "Icon Styling"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3628
+msgid "Just some extra background options ;)"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3633
+msgid "Icon Margin Bottom"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3635
+msgid "Add some space between icon and content."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3641
+msgid "Icon Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3643
+msgid "This sets the size for the icon."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3672
+msgid "Icon background Hover"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3749
+msgid "Heading Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3751
+msgid "Font size for heading"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3752
+#: ../includes/vc_extend/vc-functions.php:3759
+#: ../includes/vc_extend/vc-functions.php:3767
+#: ../includes/vc_extend/vc-functions.php:3774
+#: ../includes/vc_extend/vc-functions.php:3782
+#: ../includes/vc_extend/vc-functions.php:3790
+#: ../includes/vc_extend/vc-functions.php:4311
+#: ../includes/vc_extend/vc-functions.php:4318
+#: ../includes/vc_extend/vc-functions.php:4326
+#: ../includes/vc_extend/vc-functions.php:4333
+#: ../includes/vc_extend/vc-functions.php:4341
+#: ../includes/vc_extend/vc-functions.php:4349
+#: ../includes/vc_extend/vc-functions.php:4357
+#: ../includes/vc_extend/vc-functions.php:4365
+#: ../includes/vc_extend/vc-functions.php:4372
+msgid "Styling"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3756
+msgid "Heading Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3758
+msgid "Heading color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3764
+msgid "Heading Margin Bottom"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3771
+msgid "Sub Heading Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3773
+msgid "Sub Heading color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3779
+msgid "Box background color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3781
+msgid "This sets the background color for the boxed area"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3789
+msgid "This can be overridden in editor when adding content below."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3904
+msgid "Great for headings and page titles."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3912
+#: ../includes/vc_extend/vc-functions.php:4395
+#: ../includes/vc_extend/vc-functions.php:4474
+msgid ""
+"Add text here, you can use | around words to turn into theme color ie \"This "
+"is |GREAT| feature\" and \"Great\" will be turned into theme primary color. "
+"Or use color option below."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3916
+msgid "Heading Tag"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3920
+msgid "H1"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3921
+msgid "H2"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3922
+msgid "H3"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3923
+msgid "H4"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3924
+msgid "H5"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3925
+msgid "H6"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3926
+msgid "DIV"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3930
+msgid "H tag used for heading."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3934
+#: ../includes/vc_extend/vc-functions.php:4238
+#: ../includes/vc_extend/vc-functions.php:4406
+msgid "Heading Font Style"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3944
+#: ../includes/vc_extend/vc-functions.php:4248
+#: ../includes/vc_extend/vc-functions.php:4416
+msgid ""
+"Select heading styles, these can be set/overrode in Theme Options panel."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3954
+#: ../includes/vc_extend/vc-functions.php:4426
+#: ../includes/vc_extend/vc-functions.php:4829
+msgid "Line Height"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3960
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3966
+msgid "Max Width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3968
+msgid "Adds a max width to the heading."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3972
+#: ../includes/vc_extend/vc-functions.php:4446
+msgid "Piped Text Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3974
+#: ../includes/vc_extend/vc-functions.php:4448
+msgid ""
+"This will change the color of font between the pipes |text here| if used "
+"above."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3981
+msgid "Sets the color of your title."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3988
+msgid "Adds background color to title."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:3993
+msgid "Align"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4002
+msgid "Align text."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4066
+msgid "Font Size For < 970 width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4084
+#: ../includes/vc_extend/vc-functions.php:4106
+msgid ""
+"Sets font-size when screen width under 750. Please not this uses predefined "
+"css media queries."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4088
+msgid "Font Size For < 750 width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4110
+msgid "Font Size For < 480 width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4128
+msgid ""
+"Sets font-size when screen width under 480. Please not this uses predefined "
+"css media queries."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4179
+msgid "CountUp"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4184
+msgid "Animated counter."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4189
+msgid "Count From"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4192
+msgid "Number you'd to count from"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4196
+msgid "Count To"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4199
+msgid "Number you'd to count to"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4203
+msgid "Count Speed"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4206
+msgid "How fast to count"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4210
+msgid "Count Interval"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4213
+msgid "How often to change number when counting."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4217
+msgid "Delimiter"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4220
+msgid "Adds delimiter i.e \",\" adds comma to number \"2,300\""
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4224
+msgid "Content Before"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4227
+msgid "Add something before number, ie $ will add to number $2300"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4231
+msgid "Content After"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4234
+msgid "Add something after number, ie K will add to number 2300K"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4260
+msgid "Use to change the color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4284
+msgid "Progress Bar"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4289
+msgid "Progress Bar."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4297
+msgid "Title to appear above progress bar"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4301
+msgid "Percent"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4303
+msgid "Enter a percenatage ie 54"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4308
+msgid "Title Font Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4310
+msgid "Font size for title."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4315
+msgid "Title Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4317
+msgid "Change title color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4323
+msgid "Percentage Font Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4325
+msgid "Font size for percentage"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4330
+msgid "Percentage Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4332
+msgid "Change percentage text color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4338
+msgid "Progress Height"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4340
+msgid "Height of progress bar."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4346
+msgid "Progress Bar Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4348
+msgid "Change progress bar color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4354
+msgid "Progress Bar BG Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4356
+msgid "Change progress bar background color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4362
+msgid "Percentage Bar Spacing"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4364
+msgid "Adds spacing between background and progress bar"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4369
+msgid "Percentage Bar Radius"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4371
+msgid "Add a border radius"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4383
+#: ../includes/vc_extend/vc-functions.php:4393
+msgid "Quote"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4388
+msgid "Styled quote block"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4402
+msgid "Credit this quote"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4432
+msgid "Quote Text Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4434
+msgid "This changes the color of the quote text."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4439
+msgid "Credit Text Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4441
+msgid "This changes the color of the credit text."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4458
+msgid "Team Box"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4463
+#: ../includes/vc_extend/vc-functions.php:4571
+msgid "Add a boxed background."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4479
+msgid "Position"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4482
+msgid "Add members role/position"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4487
+msgid "Member Image"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4504
+msgid "If you'd like the image linked"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4509
+msgid "Member Text"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4510
+msgid "HTML may cause this field to not show."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4516
+msgid "Member Name Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4518
+msgid "Changes Color of the member name"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4523
+msgid "Member Text Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4525
+msgid "Changes description/bio text color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4543
+msgid "Featured Content"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4548
+msgid "Displays featured content. Use on single post pages."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4557
+msgid "List of available image sizes. only used if gallery or featured image"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4566
+msgid "Color Box"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4585
+msgid "Aligns content within the box."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4591
+msgid "Box background color option."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4598
+msgid "Font color of text within the box."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4603
+#: ../includes/vc_extend/vc-functions.php:4857
+msgid "Border Radius"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4610
+msgid "Border Style"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4614
+msgid "Solid"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4615
+msgid "Dotted"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4616
+msgid "Dashed"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4618
+msgid "Select the border style you'd like."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4624
+msgid "Color you want you're border"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4629
+#: ../includes/vc_extend/vc-functions.php:4871
+msgid "Border Width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4636
+msgid "Box Shadow Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4638
+msgid "Add a box shadow color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4643
+msgid "Box Shadow X Offset"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4646
+msgid "Offset x for box shadow"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4651
+msgid "Box Shadow Y Offset"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4654
+msgid "Offset y for box shadow"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4659
+msgid "Box Shadow Blur"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4662
+msgid "Amount of box shadow blur"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4667
+msgid "Box Shadow Spread"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4670
+msgid "Amount of box shadow spread"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4787
+#: ../includes/vc_extend/vc-functions.php:4791
+msgid "Button"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4796
+#: ../includes/vc_extend/vc-functions.php:4800
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4798
+msgid "Text to display on button."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4810
+msgid "Align Button"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4836
+msgid "Button Width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4845
+msgid "Button background color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4852
+#: ../includes/vc_extend/vc-functions.php:4882
+msgid "Font color of text within the button."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4866
+msgid "Color you want border"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4883
+#: ../includes/vc_extend/vc-functions.php:4891
+#: ../includes/vc_extend/vc-functions.php:4899
+msgid "Hover"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4890
+msgid "Hover background color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4898
+msgid "Hover border color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4964
+msgid "Extra Class"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4966
+msgid ""
+"Can add extra classes here, use \"scrollable\" if you're wanting button to "
+"scroll to a page section when clicked."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4976
+msgid "Wbc HR"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4980
+msgid "HR (line)"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4985
+msgid "Height"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4991
+msgid "HR Width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:4999
+msgid "Background color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5038
+msgid "Pricing Table"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5052
+msgid "Heading for Plan i.e Basic Plan"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5056
+msgid "Sub Title"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5059
+msgid "Adds line next to price, i.e Per Month"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5063
+msgid "Price"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5066
+msgid "Set the price for this plan."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5071
+msgid "Plan Options"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5078
+msgid "Set As Featured?"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5080
+msgid "Adds featured state to plan"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5085
+msgid "Button Link"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5087
+msgid "If you'd like the button linked"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5095
+msgid "Animated Chart"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5104
+msgid "Value"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5106
+msgid "Enter the value you' like to animate to, ie 86"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5110
+msgid "Track Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5112
+msgid "Track background color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5117
+msgid "Bar Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5119
+msgid "Color or the animated bar"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5124
+msgid "Line Width"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5126
+msgid "Sets the width of the line, ie 7"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5130
+msgid "Graph Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5132
+msgid "Size of the animated graph, ie 200"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5136
+msgid "Ending Character"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5138
+msgid "Adds to the end of the value, ie % will result in 86%"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5142
+msgid "Backing Size"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5144
+msgid "Changes the size of the backing, enter 0 to hide"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5148
+msgid "Backing Color"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5150
+msgid "Color or the backing behide the value."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5157
+msgid "Changes the font color."
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5164
+msgid "Changes the size of the font"
+msgstr ""
+
+#: ../includes/vc_extend/vc-functions.php:5170
+msgid "Margin Below Chart"
+msgstr ""
+
+#: ../vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: ../vc_templates/vc_accordion_tab.php:24
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../vc_templates/vc_posts_slider.php:192
+msgid "Nothing found."
+msgstr ""
+
+#: ../vc_templates/vc_tab.php:9
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: ../vc_templates/vc_tabs.php:44
+msgid "Previous tab"
+msgstr ""
+
+#: ../vc_templates/vc_tabs.php:44
+msgid "Next tab"
+msgstr ""

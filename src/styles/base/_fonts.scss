@@ -1,0 +1,18 @@
+// Fonts Styles function
+$font-family-serif: Georgia, Times, serif;
+$font-family-sans-serif: "Source Sans Pro", sans-serif;
+
+@mixin georgia-regular {
+    font-family: $font-family-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+@mixin font-sample($color: 'c-black', $style: normal, $weight: 600) {
+    font-family: $font-family-sans-serif;
+    font-weight: $weight;
+    color: get-color($color);
+    line-height: 1.2;
+
+    @include flex-font-size(30px, 42px, 36px);
+}

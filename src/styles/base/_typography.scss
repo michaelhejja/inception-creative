@@ -1,0 +1,60 @@
+// Font size based on breakpoints
+@mixin flex-font-size($mobile-font-size, $desktop-font-size, $tablet-font-size: -1) {
+    font-size: rem($mobile-font-size);
+
+    @if $tablet-font-size != -1 {
+        @include when-wider-than($grid-tablet) {
+            font-size: rem($tablet-font-size);
+        }
+
+        @include when-wider-than($grid-desktop) {
+            font-size: rem($desktop-font-size);
+        }
+    }
+
+    @else {
+        @include when-wider-than($grid-tablet) {
+            font-size: rem($desktop-font-size);
+        }
+    }
+}
+
+@mixin flex-line-height($mobile-line-height, $desktop-line-height, $tablet-line-height: -1) {
+    line-height: rem($mobile-line-height);
+
+    @if $tablet-line-height != -1 {
+        @include when-wider-than($grid-tablet) {
+            line-height: rem($tablet-line-height);
+        }
+
+        @include when-wider-than($grid-desktop) {
+            line-height: rem($desktop-line-height);
+        }
+    }
+
+    @else {
+        @include when-wider-than($grid-tablet) {
+            line-height: rem($desktop-line-height);
+        }
+    }
+}
+
+@mixin flex-letter-spacing($mobile-letter-spacing, $desktop-letter-spacing, $tablet-letter-spacing: -1) {
+    letter-spacing: rem($mobile-letter-spacing);
+
+    @if $tablet-letter-spacing != -1 {
+        @include when-wider-than($grid-tablet) {
+            letter-spacing: rem($tablet-letter-spacing);
+        }
+
+        @include when-wider-than($grid-desktop) {
+            letter-spacing: rem($desktop-letter-spacing);
+        }
+    }
+
+    @else {
+        @include when-wider-than($grid-tablet) {
+            letter-spacing: rem($desktop-letter-spacing);
+        }
+    }
+}

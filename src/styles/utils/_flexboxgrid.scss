@@ -1,0 +1,341 @@
+// Global Layout Container
+.Container {
+    width: 90%;
+    max-width: 1160px;
+    margin: 0 auto;
+
+    &.Full-Height {
+        height: 100%;
+    }
+
+    &.Full-Tablet {
+        @include when-less-than($grid-tablet) {
+            width: 100%;
+        }
+    }
+}
+
+.Row {
+    position: relative;
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+
+    &.Align-Top {
+        align-items: flex-start;
+    }
+
+    &.Align-Center {
+        align-items: center;
+    }
+
+    &.Align-Bottom {
+        align-items: flex-end;
+    }
+
+    &.Reverse {
+        flex-direction: row-reverse;
+    }
+
+    &.Justified-Space-Between {
+        justify-content: center;
+    }
+
+    @include when-less-than($grid-desktop) {
+        &.Tablet-Reverse {
+            flex-direction: row-reverse;
+        }
+    }
+
+    @include when-less-than($grid-tablet) {
+        &.Mobile-Reverse {
+            flex-direction: row-reverse;
+        }
+    }
+}
+
+.Column,
+.Column-1,
+.Column-2,
+.Column-3,
+.Column-4,
+.Column-5,
+.Column-6,
+.Column-7,
+.Column-8,
+.Column-9 {
+    box-sizing: border-box;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+.Column {
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+}
+
+.Column-1 {
+    -ms-flex-preferred-size: 11.1%;
+    flex-basis: 11.1%;
+    max-width: 11.1%;
+}
+
+.Column-2 {
+    -ms-flex-preferred-size: 22.2%;
+    flex-basis: 22.2%;
+    max-width: 22.2%;
+}
+
+.Column-3 {
+    -ms-flex-preferred-size: 33.3%;
+    flex-basis: 33.3%;
+    max-width: 33.3%;
+}
+
+.Column-4 {
+    -ms-flex-preferred-size: 44.4%;
+    flex-basis: 44.4%;
+    max-width: 44.4%;
+}
+
+.Column-5 {
+    -ms-flex-preferred-size: 55.5%;
+    flex-basis: 55.5%;
+    max-width: 55.5%;
+}
+
+.Column-6 {
+    -ms-flex-preferred-size: 66.6%;
+    flex-basis: 66.6%;
+    max-width: 66.6%;
+}
+
+.Column-7 {
+    -ms-flex-preferred-size: 77.7%;
+    flex-basis: 77.7%;
+    max-width: 77.7%;
+}
+
+.Column-8 {
+    -ms-flex-preferred-size: 88.8%;
+    flex-basis: 88.8%;
+    max-width: 88.8%;
+}
+
+.Column-9 {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+}
+
+.Offset-0 {
+    margin-left: 0;
+}
+
+.Offset-1 {
+    margin-left: 11.1%;
+}
+
+.Offset-2 {
+    margin-left: 22.2%;
+}
+
+.Offset-3 {
+    margin-left: 33.3%;
+}
+
+.Offset-4 {
+    margin-left: 44.4%;
+}
+
+.Offset-5 {
+    margin-left: 55.5%;
+}
+
+.Offset-6 {
+    margin-left: 66.6%;
+}
+
+.Offset-7 {
+    margin-left: 77.7%;
+}
+
+@include when-less-than($grid-desktop) {
+    .Row {
+        margin-right: -16px;
+        margin-left: -16px;
+    }
+
+    .Column-Tablet,
+    .Column-Tablet-1,
+    .Column-Tablet-2,
+    .Column-Tablet-3,
+    .Column-Tablet-4,
+    .Column-Tablet-5,
+    .Column-Tablet-6 {
+        box-sizing: border-box;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        padding-right: 16px;
+        padding-left: 16px;
+    }
+
+    .Column-Tablet {
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+        max-width: 100%;
+    }
+
+    .Column-Tablet-1 {
+        -ms-flex-preferred-size: 16.666666%;
+        flex-basis: 16.666666%;
+        max-width: 16.666666%;
+    }
+
+    .Column-Tablet-2 {
+        -ms-flex-preferred-size: 33.333333%;
+        flex-basis: 33.333333%;
+        max-width: 33.333333%;
+    }
+
+    .Column-Tablet-3 {
+        -ms-flex-preferred-size: 50%;
+        flex-basis: 50%;
+        max-width: 50%;
+    }
+
+    .Column-Tablet-4 {
+        -ms-flex-preferred-size: 66.666666%;
+        flex-basis: 66.666666%;
+        max-width: 66.666666%;
+    }
+
+    .Column-Tablet-5 {
+        -ms-flex-preferred-size: 83.333333%;
+        flex-basis: 83.333333%;
+        max-width: 83.333333%;
+    }
+
+    .Column-Tablet-6 {
+        -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+
+    .Offset-Tablet-0 {
+        margin-left: 0;
+    }
+
+    .Offset-Tablet-1 {
+        margin-left: 16.666666%;
+    }
+
+    .Offset-Tablet-2 {
+        margin-left: 33.333333%;
+    }
+
+    .Offset-Tablet-3 {
+        margin-left: 50%;
+    }
+
+    .Offset-Tablet-4 {
+        margin-left: 66.666666%;
+    }
+
+    .Offset-Tablet-5 {
+        margin-left: 83.333333%;
+    }
+}
+
+@include when-less-than($grid-tablet) {
+    .Row {
+        margin-right: -12px;
+        margin-left: -12px;
+    }
+
+    .Column-Mobile,
+    .Column-Mobile-1,
+    .Column-Mobile-2,
+    .Column-Mobile-3 {
+        box-sizing: border-box;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        padding-right: 12px;
+        padding-left: 12px;
+    }
+
+    .Column-Mobile {
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+        max-width: 100%;
+    }
+
+    .Column-Mobile-1 {
+        -ms-flex-preferred-size: 33.333333%;
+        flex-basis: 33.333333%;
+        max-width: 33.333333%;
+    }
+
+    .Column-Mobile-2 {
+        -ms-flex-preferred-size: 66.666666%;
+        flex-basis: 66.666666%;
+        max-width: 66.666666%;
+    }
+
+    .Column-Mobile-3 {
+        -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+
+    .Offset-Mobile-0 {
+        margin-left: 0;
+    }
+
+    .Offset-Mobile-1 {
+        margin-left: 33.333333%;
+    }
+
+    .Offset-Mobile-2 {
+        margin-left: 66.666666%;
+    }
+}
+
+.FlexContainer {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.FlexColumn__2Col {
+    width: 50%;
+
+    @include when-less-than($grid-desktop) {
+        width: 100%;
+    }
+}

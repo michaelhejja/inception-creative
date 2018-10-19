@@ -1,0 +1,96 @@
+/*
+Theme Name: Inception Creative
+Author: Michael Hejja
+Author URI: https://wordpress.org/
+Description: Custom Theme for Inception Creative
+Version: 1.0.1
+*/
+
+// Global styles
+@import 'utils/init';
+@import 'base/init';
+@import 'components/init';
+@import 'content-layers/init';
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,400,600');
+
+html {
+    position: relative;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    // background-color: #D9D9D8;
+}
+
+section {
+    min-height: 100vh;
+}
+
+h1 {
+    margin: 0;
+    font-weight: 100;
+    font-size: 69px;
+    line-height: 1.3em;
+
+    @include when-less-than($grid-desktop) {
+        font-size: 46px;
+    }
+
+    @include when-less-than($grid-tablet) {
+        font-size: 6.2vw;
+        line-height: 1.5em;
+    }
+}
+
+.h1 {
+    margin: 0;
+    font-weight: 100;
+    font-size: 69px;
+    line-height: 1.3em;
+
+    @include when-less-than($grid-desktop) {
+        font-size: 46px;
+    }
+
+    @include when-less-than($grid-tablet) {
+        font-size: 6.2vw;
+        line-height: 1.4em;
+    }
+}
+
+h2 {
+    margin: 0;
+    font-weight: 100;
+    font-size: 48px;
+    line-height: 1.3em;
+
+    @include when-less-than($grid-desktop) {
+        font-size: 36px;
+    }
+
+    @include when-less-than($grid-tablet) {
+        font-size: 20px;
+        line-height: 1.5em;
+        letter-spacing: .05em;
+    }
+}
+
+.h2 {
+    margin: 0;
+    font-weight: 100;
+    font-size: 48px;
+    line-height: 1.3em;
+
+    @include when-less-than($grid-desktop) {
+        font-size: 36px;
+    }
+
+    @include when-less-than($grid-tablet) {
+        font-size: 20px;
+        line-height: 1.5em;
+        letter-spacing: .05em;
+    }
+}

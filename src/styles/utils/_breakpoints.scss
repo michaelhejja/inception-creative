@@ -1,0 +1,21 @@
+/* eslint-disable */
+
+//===========================
+// Breakpoint utility
+// set pseudo element for JS to confirm current BP
+//===========================
+
+body {
+    &::after {
+        content: 'mobile';
+        display: none;
+
+        @include when-wider-than($grid-tablet) {
+            content: 'tablet';
+        }
+
+        @include when-wider-than($grid-desktop) {
+            content: 'desktop';
+        }
+    }
+}

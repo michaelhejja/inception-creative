@@ -1,0 +1,10 @@
+$font-path: "";
+
+@font-face {
+    font-family: "Source Sans Pro";
+    font-style: normal;
+    font-weight: 400;
+    src:
+        url("#{$font-path}/sourcesanspro-regular-webfont.woff2") format("woff2"),
+        url("#{$font-path}/sourcesanspro-regular-webfont.woff") format("woff");
+}

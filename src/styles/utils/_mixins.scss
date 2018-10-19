@@ -1,0 +1,92 @@
+//=======================================================
+// Mixins
+//=======================================================
+
+// Clearfix
+@mixin clearfix {
+    &::after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+}
+
+// Makes an element visually hidden, but accessible.
+// @see http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+@mixin element-invisible {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
+// Turns off the element-invisible effect.
+@mixin element-invisible-off {
+    position: static !important;
+    clip: auto;
+    height: auto;
+    width: auto;
+    overflow: auto;
+}
+
+// Makes an element visually hidden by default, but visible when focused.
+@mixin element-focusable {
+    @include element-invisible;
+
+    &:active,
+    &:focus {
+        @include element-invisible-off;
+    }
+}
+
+// Helper function for working with Sass maps.
+// Example: @include print($configuration);
+@mixin print($declarations) {
+    @each $property, $value in $declarations {
+        #{$property}: $value;
+    }
+}
+
+@mixin component-margin-top($margin-mobile, $margin-tablet, $margin-desktop) {
+    margin-top: $margin-mobile;
+
+    @include when-wider-than($grid-tablet) {
+        margin-top: $margin-tablet;
+    }
+
+    @include when-wider-than($grid-desktop) {
+        margin-top: $margin-desktop;
+    }
+}
+
+// Main centered content column with max-width on desktop, e.g. main
+@mixin content-column {
+    @include clearfix;
+    margin-left: auto;
+    margin-right: auto;
+
+    @include when-wider-than($grid-tablet) {
+        max-width: map-get($max-page-width, desktop);
+        padding-left: map-get($gutters, desktop);
+        padding-right: map-get($gutters, desktop);
+    }
+}
+
+@mixin placeholder {
+    @include optional-at-root('::-webkit-input-placeholder') {
+        @content;
+    }
+
+    @include optional-at-root(':-moz-placeholder') {
+        @content;
+    }
+
+    @include optional-at-root('::-moz-placeholder') {
+        @content;
+    }
+
+    @include optional-at-root(':-ms-input-placeholder') {
+        @content;
+    }
+}

@@ -1,0 +1,126 @@
+@import "../../config/breakpoints.json";
+@import "neat";
+
+@function gutter($type: mobile) {
+    @return map-get($gutters, $type);
+}
+
+@function grid-name($grid) {
+    @return map-get($grid, name);
+}
+
+@function grid-column-width($grid, $columns: 1, $extra-calc: -1) {
+    @if $extra-calc != -1 {
+        @return calc(#{_neat-column-width($grid, $columns)} + #{$extra-calc});
+    }
+
+    @else {
+        @return calc(#{_neat-column-width($grid, $columns)});
+    }
+}
+
+@function get-article-desktop-col-width() {
+    @return calc(((100% - #{gutter(desktop) * 5}) ) / 6);
+}
+
+@function get-breakpoint($target) {
+    @return map-get($breakpoints, $target);
+}
+
+@function get-next-breakpoint($target) {
+    $possible-nexts: ();
+    $next-breakpoint: null;
+
+    @each $breakpoint, $value in $breakpoints {
+        @if $breakpoint == $target or length($possible-nexts) > 0 {
+            $possible-nexts: append($possible-nexts, $breakpoint);
+        }
+    }
+
+    @if length($possible-nexts) > 1 {
+        $next-breakpoint: nth($possible-nexts, 2);
+
+        @return map-get($breakpoints, $next-breakpoint);
+    }
+
+    @return $there-is-no-higher-breakpoint;
+}
+
+$there-is-no-higher-breakpoint: 9999rem;
+
+$max-page-width: (
+    /*
+        1256 + (gutter + gutter) = 1340
+    */
+    desktop: rem(1416px)
+);
+
+$breakpoints: (
+    mobile: rem($mobile),
+    tablet: rem($tablet),
+    desktop: rem($desktop)
+);
+
+$gutters: (
+    mobile: rem(20px),
+    tablet: rem(16px),
+    desktop: rem(40px),
+);
+
+$grid-mobile: (
+    name: mobile,
+    columns: 4,
+    gutter: gutter(mobile),
+);
+
+$grid-tablet: (
+    name: tablet,
+    columns: 12,
+    gutter: gutter(tablet),
+    media: '(min-width: get-breakpoint(tablet))',
+);
+
+$grid-desktop: (
+    name: desktop,
+    columns: 12,
+    gutter: gutter(desktop),
+    media: '(min-width: get-breakpoint(desktop))',
+);
+
+$grid-desktop-rtl: (
+    name: desktop,
+    columns: 12,
+    gutter: gutter(desktop),
+    media: '(min-width: get-breakpoint(desktop))',
+    direction: 'rtl'
+);
+
+$grid-tablet-rtl: (
+    name: tablet,
+    columns: 12,
+    gutter: gutter(tablet),
+    media: '(min-width: get-breakpoint(tablet))',
+    direction: 'rtl'
+);
+
+@mixin when-wider-than($grid) {
+    @include grid-media($grid) {
+        @content;
+    }
+}
+
+@mixin when-less-than($grid) {
+    $target: map-get($grid, name);
+
+    @media screen and (max-width: get-breakpoint($target) - rem(1px)) {
+        @content;
+    }
+}
+
+@mixin when-on($grid) {
+    $target: map-get($grid, name);
+
+    @media screen and (min-width: get-breakpoint($target)) and (max-width: get-next-breakpoint($target) - rem(1px)) {
+        @content;
+    }
+}

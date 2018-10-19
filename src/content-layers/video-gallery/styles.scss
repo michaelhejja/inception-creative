@@ -1,0 +1,103 @@
+.video-gallery {
+    position: relative;
+    padding: 60px 0;
+    background-color: $c-light-grey;
+
+    &__headline {
+        font-weight: 100;
+        font-size: 32px;
+        text-align: center;
+    }
+
+    &__thumbnail {
+        transition: all .8s ease-out;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-size: cover;
+        background-position: center center;
+    }
+
+    &__icon {
+        transition: .3s opacity;
+        position: absolute;
+        color: #FFFFFF;
+        z-index: 10;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        font-size: 65px;
+        opacity: 0;
+        text-shadow: 0 0 8px rgba(0, 0, 0, .8);
+
+        @include when-less-than($grid-tablet) {
+            opacity: .8;
+        }
+    }
+
+    &__highlight {
+        transition: .2s width ease-out;
+        width: 0%;
+        height: 4px;
+        background-color: $c-orange;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        z-index: 20;
+    }
+
+    &__item {
+        background-color: $c-orange;
+        margin-top: 30px;
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;
+
+        &::before {
+            display: block;
+            content: "";
+            width: 100%;
+            padding-top: (3 / 4) * 100%;
+        }
+
+        &:hover {
+            .video-gallery__thumbnail {
+                transform: scale(1.08);
+            }
+
+            .video-gallery__icon {
+                opacity: .8;
+            }
+
+            .video-gallery__highlight {
+                width: 100%;
+            }
+        }
+    }
+
+    &__title {
+        transition: color .2s ease-out;
+        margin-top: 15px;
+        font-weight: 800;
+        font-size: 18px;
+        letter-spacing: .02em;
+        cursor: pointer;
+
+        &:hover {
+            color: $c-orange;
+        }
+    }
+
+    &__caption {
+        text-align: justify;
+        margin-top: 10px;
+        text-transform: uppercase;
+        font-size: 12px;
+        line-height: 20px;
+        letter-spacing: .1em;
+        padding: 0 1px;
+        margin-bottom: 30px;
+    }
+}
